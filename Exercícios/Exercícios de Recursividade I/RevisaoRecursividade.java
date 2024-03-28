@@ -21,7 +21,7 @@ public class RevisaoRecursividade {
 
     public static int search(int[] vector, int index, int value) {
 
-        if (index > vector.length) {
+        if (index == vector.length) {
             return -1;
         }
 
