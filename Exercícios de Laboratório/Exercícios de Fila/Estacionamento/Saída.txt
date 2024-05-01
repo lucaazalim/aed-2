@@ -1,0 +1,15 @@
+Carro de placa PWT 1090 entrou no estacionamento.
+Carro de placa OLP 7865 entrou no estacionamento.
+Carro de placa PVD 6310 entrou no estacionamento.
+Carro de placa OLP 7865 saiu do estacionamento.
+Esse carro foi manobrado 0 vezes.
+Carro de placa PWT 1090 saiu do estacionamento.
+Esse carro foi manobrado 1 vezes.
+Carro de placa GVT 5690 entrou no estacionamento.
+Carro de placa IAT 4190 entrou no estacionamento.
+Carro nao encontrado!
+Carro de placa PVD 6310 saiu do estacionamento.
+Esse carro foi manobrado 1 vezes.
+Carro de placa GVT 5690 saiu do estacionamento.
+Esse carro foi manobrado 1 vezes.
+IAT 4190
