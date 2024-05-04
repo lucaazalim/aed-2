@@ -1,7 +1,7 @@
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-public class ExpressaoMatematica {
+public class ReversePolishNotation {
 
     public static void main(String[] args) {
 

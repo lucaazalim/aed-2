@@ -1,7 +1,7 @@
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-public class Estacionamento {
+public class ParkingLot {
 
     private static final Queue<Vehicle> parkingLot = new Queue<>();
 
