@@ -4,15 +4,15 @@ import java.util.Objects;
 public class Stack<E> {
 
     private Node<E> top;
-    private final Node<E> sentinel;
+    private final Node<E> bottom; // always the sentinel
     private int size;
 
     public Stack() {
-        this.top = this.sentinel = new Node<>();
+        this.top = this.bottom = new Node<>();
     }
 
     public boolean isEmpty() {
-        return this.sentinel == this.top;
+        return this.bottom == this.top;
     }
 
     // Método obterNumeroItens() solicitado pelo enunciado.
@@ -33,7 +33,7 @@ public class Stack<E> {
 
         } else {
 
-            Node<E> newNode = new Node<>(element, this.sentinel);
+            Node<E> newNode = new Node<>(element, this.bottom);
             Node<E> bottomNode = this.peekBottomNode();
             bottomNode.setNext(newNode);
             this.size++;
@@ -65,7 +65,7 @@ public class Stack<E> {
         } else {
 
             Node<E> behindPopped = this.peekNode(index - 1);
-            Node<E> afterPopped = this.size() >= index + 1 ? this.peekNode(index + 1) : this.sentinel;
+            Node<E> afterPopped = this.size() >= index + 1 ? this.peekNode(index + 1) : this.bottom;
             behindPopped.setNext(afterPopped);
 
         }
@@ -101,7 +101,7 @@ public class Stack<E> {
 
         for (int i = 0; i < index; i++) {
 
-            if (node == this.sentinel) {
+            if (node == this.bottom) {
                 throw new NoSuchElementException(
                         "Index " + index + " is invalid. Stack size is " + this.size() + ".");
             }

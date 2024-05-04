@@ -3,7 +3,8 @@ import java.util.Objects;
 
 public class Queue<E> implements Cloneable {
 
-    private Node<E> front, back; // front is always the sentinel.
+    private final Node<E> front; // always the sentinel
+    private Node<E> back;
     private int size;
 
     public Queue() {
