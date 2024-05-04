@@ -1,6 +1,6 @@
 import java.text.Normalizer;
 
-public class PalindromeStack {
+public class Palindrome {
 
     public static void main(String[] args) {
 
