@@ -1,0 +1,266 @@
+https://code.org/learn
+O item procurado não foi encontrado!
+https://www.codeavengers.com
+https://www.hackerrank.com/
+https://www.bloc.io
+https://www.programiz.com
+https://teachyourselfcs.com
+https://code.org/learn
+https://lambdaschool.com
+O item procurado não foi encontrado!
+https://www.bloc.io
+https://www.techelevator.com
+https://lambdaschool.com
+https://online.stanford.edu
+https://www.codeavengers.com
+https://www.hackerrank.com/
+https://www.techtalentsouth.com
+https://www.cursoemvideo.com
+https://www.coursera.org
+https://www.coursera.org
+Nome: [Coursera]
+Endereço: [https://www.coursera.org]
+Número de acessos: 2
+Nome: [Curso em Vídeo]
+Endereço: [https://www.cursoemvideo.com]
+Número de acessos: 1
+Nome: [Tech Talent South]
+Endereço: [https://www.techtalentsouth.com]
+Número de acessos: 1
+Nome: [Hackerrank]
+Endereço: [https://www.hackerrank.com/]
+Número de acessos: 2
+Nome: [Code Avengers]
+Endereço: [https://www.codeavengers.com]
+Número de acessos: 2
+Nome: [Stanford Online]
+Endereço: [https://online.stanford.edu]
+Número de acessos: 1
+Nome: [Lambda School]
+Endereço: [https://lambdaschool.com]
+Número de acessos: 2
+Nome: [Tech Elevator]
+Endereço: [https://www.techelevator.com]
+Número de acessos: 1
+Nome: [Bloc]
+Endereço: [https://www.bloc.io]
+Número de acessos: 2
+Nome: [Code.org]
+Endereço: [https://code.org/learn]
+Número de acessos: 2
+Nome: [Teach Yourself Computer Science]
+Endereço: [https://teachyourselfcs.com]
+Número de acessos: 1
+Nome: [Programiz]
+Endereço: [https://www.programiz.com]
+Número de acessos: 1
+Nome: [edX]
+Endereço: [https://www.edx.org]
+Número de acessos: 0
+Nome: [Khan Academy]
+Endereço: [https://www.khanacademy.org]
+Número de acessos: 0
+Nome: [Udacity]
+Endereço: [https://www.udacity.com]
+Número de acessos: 0
+Nome: [TED-Ed]
+Endereço: [https://ed.ted.com]
+Número de acessos: 0
+Nome: [MIT OpenCourseWare]
+Endereço: [https://ocw.mit.edu]
+Número de acessos: 0
+Nome: [Harvard Online Learning]
+Endereço: [https://online-learning.harvard.edu]
+Número de acessos: 0
+Nome: [Udemy]
+Endereço: [https://www.udemy.com]
+Número de acessos: 0
+Nome: [Codecademy]
+Endereço: [https://www.codecademy.com]
+Número de acessos: 0
+Nome: [FutureLearn]
+Endereço: [https://www.futurelearn.com]
+Número de acessos: 0
+Nome: [Teachable]
+Endereço: [https://teachable.com]
+Número de acessos: 0
+Nome: [Skillshare]
+Endereço: [https://www.skillshare.com]
+Número de acessos: 0
+Nome: [LinkedIn Learning]
+Endereço: [https://www.linkedin.com/learning]
+Número de acessos: 0
+Nome: [Duolingo]
+Endereço: [https://www.duolingo.com]
+Número de acessos: 0
+Nome: [Rosetta Stone]
+Endereço: [https://www.rosettastone.com]
+Número de acessos: 0
+Nome: [PBS LearningMedia]
+Endereço: [https://www.pbslearningmedia.org]
+Número de acessos: 0
+Nome: [Scholastic]
+Endereço: [https://www.scholastic.com]
+Número de acessos: 0
+Nome: [BrainPOP]
+Endereço: [https://www.brainpop.com]
+Número de acessos: 0
+Nome: [Discovery Education]
+Endereço: [https://www.discoveryeducation.com]
+Número de acessos: 0
+Nome: [Pluralsight]
+Endereço: [https://www.pluralsight.com]
+Número de acessos: 0
+Nome: [Codecademy Pro]
+Endereço: [https://www.codecademy.com/pro]
+Número de acessos: 0
+Nome: [Treehouse]
+Endereço: [https://teamtreehouse.com]
+Número de acessos: 0
+Nome: [Alison]
+Endereço: [https://alison.com/]
+Número de acessos: 0
+Nome: [Alura]
+Endereço: [https://www.alura.com.br]
+Número de acessos: 0
+Nome: [Digital Innovation One]
+Endereço: [https://digitalinnovation.one]
+Número de acessos: 0
+Nome: [Codecademy Brasil]
+Endereço: [https://www.codecademy.com/pt-BR]
+Número de acessos: 0
+Nome: [Escola Virtual]
+Endereço: [https://www.escolavirtual.gov.br]
+Número de acessos: 0
+Nome: [Academy Hacker]
+Endereço: [https://academyhacker.com]
+Número de acessos: 0
+Nome: [Lynda.com (LinkedIn Learning)]
+Endereço: [https://www.lynda.com]
+Número de acessos: 0
+Nome: [MasterClass]
+Endereço: [https://www.masterclass.com]
+Número de acessos: 0
+Nome: [O'Reilly Online Learning]
+Endereço: [https://www.oreilly.com/online-learning/]
+Número de acessos: 0
+Nome: [The Great Courses Plus]
+Endereço: [https://www.thegreatcoursesplus.com]
+Número de acessos: 0
+Nome: [Courseroot]
+Endereço: [https://courseroot.com]
+Número de acessos: 0
+Nome: [DataCamp]
+Endereço: [https://www.datacamp.com]
+Número de acessos: 0
+Nome: [FreeCodeCamp]
+Endereço: [https://www.freecodecamp.org]
+Número de acessos: 0
+Nome: [HackEDU]
+Endereço: [https://www.hackedu.io]
+Número de acessos: 0
+Nome: [The Odin Project]
+Endereço: [https://www.theodinproject.com]
+Número de acessos: 0
+Nome: [SoloLearn]
+Endereço: [https://www.sololearn.com]
+Número de acessos: 0
+Nome: [Code School]
+Endereço: [https://www.codeschool.com]
+Número de acessos: 0
+Nome: [BitDegree]
+Endereço: [https://www.bitdegree.org]
+Número de acessos: 0
+Nome: [Fullstack Academy]
+Endereço: [https://www.fullstackacademy.com]
+Número de acessos: 0
+Nome: [Launch School]
+Endereço: [https://www.launchschool.com]
+Número de acessos: 0
+Nome: [One Month]
+Endereço: [https://onemonth.com]
+Número de acessos: 0
+Nome: [Learn Python]
+Endereço: [https://www.learnpython.org]
+Número de acessos: 0
+Nome: [Techdegree by Treehouse]
+Endereço: [https://teamtreehouse.com/techdegree]
+Número de acessos: 0
+Nome: [CS50's Introduction to Computer Science]
+Endereço: [https://cs50.harvard.edu]
+Número de acessos: 0
+Nome: [Udemy for Business]
+Endereço: [https://business.udemy.com]
+Número de acessos: 0
+Nome: [Academic Earth]
+Endereço: [https://academicearth.org]
+Número de acessos: 0
+Nome: [Open Education Consortium]
+Endereço: [https://www.oeconsortium.org]
+Número de acessos: 0
+Nome: [Open Culture]
+Endereço: [http://www.openculture.com]
+Número de acessos: 0
+Nome: [Harvard Extension School]
+Endereço: [https://www.extension.harvard.edu]
+Número de acessos: 0
+Nome: [University of the People]
+Endereço: [https://www.uopeople.edu]
+Número de acessos: 0
+Nome: [Simplilearn]
+Endereço: [https://www.simplilearn.com]
+Número de acessos: 0
+Nome: [Code Institute]
+Endereço: [https://codeinstitute.net]
+Número de acessos: 0
+Nome: [General Assembly]
+Endereço: [https://www.generalassemb.ly]
+Número de acessos: 0
+Nome: [OpenClassrooms]
+Endereço: [https://openclassrooms.com]
+Número de acessos: 0
+Nome: [Skillcrush]
+Endereço: [https://skillcrush.com]
+Número de acessos: 0
+Nome: [Saylor Academy]
+Endereço: [https://learn.saylor.org/]
+Número de acessos: 0
+Nome: [Codecademy Pro]
+Endereço: [https://www.codecademy.com/pro]
+Número de acessos: 0
+Nome: [Harvard Online Learning]
+Endereço: [https://online-learning.harvard.edu/]
+Número de acessos: 0
+Nome: [Udemy for Business]
+Endereço: [https://business.udemy.com/]
+Número de acessos: 0
+Nome: [OpenClassrooms]
+Endereço: [https://openclassrooms.com/]
+Número de acessos: 0
+Nome: [Bloc]
+Endereço: [https://www.bloc.io/]
+Número de acessos: 0
+Nome: [Skillcrush]
+Endereço: [https://skillcrush.com/]
+Número de acessos: 0
+Nome: [Tech Talent South]
+Endereço: [https://www.techtalentsouth.com/]
+Número de acessos: 0
+Nome: [Tech Elevator]
+Endereço: [https://www.techelevator.com/]
+Número de acessos: 0
+Nome: [Caelum]
+Endereço: [https://www.caelum.com.br/]
+Número de acessos: 0
+Nome: [Udemy Brasil]
+Endereço: [https://www.udemy.com.br/]
+Número de acessos: 0
+Nome: [Digital Innovation One]
+Endereço: [https://digitalinnovation.one/]
+Número de acessos: 0
+Nome: [Escola Virtual]
+Endereço: [https://www.escolavirtual.gov.br/]
+Número de acessos: 0
+Nome: [Curso em Vídeo]
+Endereço: [https://www.cursoemvideo.com/]
+Número de acessos: 0

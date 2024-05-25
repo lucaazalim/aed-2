@@ -1,0 +1,104 @@
+82
+Coursera - https://www.coursera.org
+edX - https://www.edx.org
+Khan Academy - https://www.khanacademy.org
+Udacity - https://www.udacity.com
+TED-Ed - https://ed.ted.com
+MIT OpenCourseWare - https://ocw.mit.edu
+Harvard Online Learning - https://online-learning.harvard.edu
+Udemy - https://www.udemy.com
+Codecademy - https://www.codecademy.com
+FutureLearn - https://www.futurelearn.com
+Teachable - https://teachable.com
+Skillshare - https://www.skillshare.com
+LinkedIn Learning - https://www.linkedin.com/learning
+Duolingo - https://www.duolingo.com
+Rosetta Stone - https://www.rosettastone.com
+PBS LearningMedia - https://www.pbslearningmedia.org
+Scholastic - https://www.scholastic.com
+BrainPOP - https://www.brainpop.com
+Discovery Education - https://www.discoveryeducation.com
+Pluralsight - https://www.pluralsight.com
+Codecademy Pro - https://www.codecademy.com/pro
+Treehouse - https://teamtreehouse.com
+Alison - https://alison.com/
+Alura - https://www.alura.com.br
+Digital Innovation One - https://digitalinnovation.one
+Codecademy Brasil - https://www.codecademy.com/pt-BR
+Escola Virtual - https://www.escolavirtual.gov.br
+Curso em Vídeo - https://www.cursoemvideo.com
+Academy Hacker - https://academyhacker.com
+Lynda.com (LinkedIn Learning) - https://www.lynda.com
+MasterClass - https://www.masterclass.com
+O'Reilly Online Learning - https://www.oreilly.com/online-learning/
+The Great Courses Plus - https://www.thegreatcoursesplus.com
+Courseroot - https://courseroot.com
+DataCamp - https://www.datacamp.com
+FreeCodeCamp - https://www.freecodecamp.org
+HackEDU - https://www.hackedu.io
+The Odin Project - https://www.theodinproject.com
+SoloLearn - https://www.sololearn.com
+Code School - https://www.codeschool.com
+BitDegree - https://www.bitdegree.org
+Fullstack Academy - https://www.fullstackacademy.com
+Launch School - https://www.launchschool.com
+One Month - https://onemonth.com
+Code Avengers - https://www.codeavengers.com
+Learn Python - https://www.learnpython.org
+Techdegree by Treehouse - https://teamtreehouse.com/techdegree
+Programiz - https://www.programiz.com
+Teach Yourself Computer Science - https://teachyourselfcs.com
+CS50's Introduction to Computer Science - https://cs50.harvard.edu
+Stanford Online - https://online.stanford.edu
+Udemy for Business - https://business.udemy.com
+Academic Earth - https://academicearth.org
+Open Education Consortium - https://www.oeconsortium.org
+Open Culture - http://www.openculture.com
+Harvard Extension School - https://www.extension.harvard.edu
+University of the People - https://www.uopeople.edu
+Simplilearn - https://www.simplilearn.com
+Code Institute - https://codeinstitute.net
+General Assembly - https://www.generalassemb.ly
+Lambda School - https://lambdaschool.com
+OpenClassrooms - https://openclassrooms.com
+Bloc - https://www.bloc.io
+Skillcrush - https://skillcrush.com
+Tech Talent South - https://www.techtalentsouth.com
+Tech Elevator - https://www.techelevator.com
+Saylor Academy - https://learn.saylor.org/
+Code.org - https://code.org/learn
+Hackerrank - https://www.hackerrank.com/
+Codecademy Pro - https://www.codecademy.com/pro
+Harvard Online Learning - https://online-learning.harvard.edu/
+Udemy for Business - https://business.udemy.com/
+OpenClassrooms - https://openclassrooms.com/
+Bloc - https://www.bloc.io/
+Skillcrush - https://skillcrush.com/
+Tech Talent South - https://www.techtalentsouth.com/
+Tech Elevator - https://www.techelevator.com/
+Caelum - https://www.caelum.com.br/
+Udemy Brasil - https://www.udemy.com.br/
+Digital Innovation One - https://digitalinnovation.one/
+Escola Virtual - https://www.escolavirtual.gov.br/
+Curso em Vídeo - https://www.cursoemvideo.com/
+Code.org
+National Geographic Kids
+Code Avengers
+Hackerrank
+Bloc
+Programiz
+Teach Yourself Computer Science
+Code.org
+Lambda School
+Tuts+
+Bloc
+Tech Elevator
+Lambda School
+Stanford Online
+Code Avengers
+Hackerrank
+Tech Talent South
+Curso em Vídeo
+Coursera
+Coursera
+FIM
