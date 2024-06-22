@@ -125,6 +125,40 @@ public class TreeNode<T extends Comparable<T>> {
 
     }
 
+    public T getMinimum() {
+
+        if (this.left == null) {
+            return this.element;
+        }
+
+        return this.left.getMinimum();
+
+    }
+
+    public T getMaximum() {
+
+        if (this.right == null) {
+            return this.element;
+        }
+
+        return this.right.getMaximum();
+
+    }
+
+    public void walkPreOrdered(Consumer<T> consumer) {
+
+        consumer.accept(this.element);
+
+        if (this.left != null) {
+            this.left.walkPreOrdered(consumer);
+        }
+
+        if (this.right != null) {
+            this.right.walkPreOrdered(consumer);
+        }
+
+    }
+
     public void walkOrdered(Consumer<T> consumer) {
 
         if (this.left != null) {
@@ -139,8 +173,45 @@ public class TreeNode<T extends Comparable<T>> {
 
     }
 
+    public void walkReverseOrdered(Consumer<T> consumer) {
+
+        if (this.right != null) {
+            this.right.walkReverseOrdered(consumer);
+        }
+
+        consumer.accept(this.element);
+
+        if (this.left != null) {
+            this.left.walkReverseOrdered(consumer);
+        }
+
+    }
+
+    public void walkPostOrdered(Consumer<T> consumer) {
+
+        if (this.left != null) {
+            this.left.walkPostOrdered(consumer);
+        }
+
+        if (this.right != null) {
+            this.right.walkPostOrdered(consumer);
+        }
+
+        consumer.accept(this.element);
+
+    }
+
     public int getBalanceFactor() {
         return getChildHeight(this.left) - getChildHeight(this.right);
+    }
+
+    public TreeNode<T> clone() {
+
+        TreeNode<T> left = this.left == null ? null : this.left.clone();
+        TreeNode<T> right = this.right == null ? null : this.right.clone();
+
+        return new TreeNode<>(this.element, left, right);
+
     }
 
 }

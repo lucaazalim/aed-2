@@ -1,4 +1,5 @@
 import java.util.NoSuchElementException;
+import java.util.Objects;
 import java.util.function.Consumer;
 
 public class BinarySearchTree<E extends Comparable<E>> {
@@ -16,10 +17,10 @@ public class BinarySearchTree<E extends Comparable<E>> {
     }
 
     public E find(E element) {
-        return this.find(element, this.root);
+        return this.find(element, this.root).getElement();
     }
 
-    private E find(E element, TreeNode<E> treeNode) {
+    private TreeNode<E> find(E element, TreeNode<E> treeNode) {
 
         if (treeNode == null) {
             throw new NoSuchElementException();
@@ -28,7 +29,7 @@ public class BinarySearchTree<E extends Comparable<E>> {
         int comparison = element.compareTo(treeNode.getElement());
 
         if (comparison == 0) {
-            return treeNode.getElement();
+            return treeNode;
         }
 
         if (comparison < 0) {
@@ -116,12 +117,6 @@ public class BinarySearchTree<E extends Comparable<E>> {
 
     }
 
-    public void walkOrdered(Consumer<E> consumer) {
-        if(this.root != null) {
-            this.root.walkOrdered(consumer);
-        }
-    }
-
     public int getLeaves() {
         return this.root == null ? 0 : this.root.getLeaves();
     }
@@ -132,6 +127,99 @@ public class BinarySearchTree<E extends Comparable<E>> {
 
     public int getSize() {
         return this.root == null ? 0 : this.root.getSize();
+    }
+
+    public E getMinimum() {
+
+        if (this.root == null) {
+            throw new NoSuchElementException();
+        }
+
+        return this.root.getMinimum();
+
+    }
+
+    public E getMaximum() {
+
+        if (this.root == null) {
+            throw new NoSuchElementException();
+        }
+
+        return this.root.getMaximum();
+
+    }
+
+    public void walkPreOrdered(Consumer<E> consumer) {
+        if (this.root != null) {
+            this.root.walkPreOrdered(consumer);
+        }
+    }
+
+    public void walkOrdered(Consumer<E> consumer) {
+        if (this.root != null) {
+            this.root.walkOrdered(consumer);
+        }
+    }
+
+    public void walkReverseOrdered(Consumer<E> consumer) {
+        if (this.root != null) {
+            this.root.walkReverseOrdered(consumer);
+        }
+    }
+
+    public void walkPostOrdered(Consumer<E> consumer) {
+        if (this.root != null) {
+            this.root.walkPostOrdered(consumer);
+        }
+    }
+
+    public BinarySearchTree<E> subtreeFrom(E element) {
+
+        TreeNode<E> treeNode = this.find(element, this.root);
+        BinarySearchTree<E> subtree = new BinarySearchTree<>();
+
+        if (treeNode.getRight() != null) {
+            subtree.root = treeNode.getRight().clone();
+        }
+
+        subtree.add(element);
+
+        return subtree;
+
+    }
+
+    public boolean isRoot(E element) {
+        return Objects.equals(element, this.root.getElement());
+    }
+
+    public E getPredecessor(E element) {
+
+        TreeNode<E> treeNode = this.find(element, this.root);
+
+        if (treeNode.getLeft() == null) {
+            throw new NoSuchElementException();
+        }
+
+        return treeNode.getLeft().getMaximum();
+
+    }
+
+    public E getSuccessor(E element) {
+
+        TreeNode<E> treeNode = this.find(element, this.root);
+
+        if (treeNode.getRight() == null) {
+            throw new NoSuchElementException();
+        }
+
+        return treeNode.getRight().getMinimum();
+
+    }
+
+    public BinarySearchTree<E> clone() {
+        BinarySearchTree<E> clone = new BinarySearchTree<>();
+        clone.root = this.root.clone();
+        return clone;
     }
 
 }
