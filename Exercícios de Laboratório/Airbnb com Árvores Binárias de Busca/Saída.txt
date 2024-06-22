@@ -1,0 +1,12 @@
+Numero de folhas da arvore: 47
+Numero de acomodacoes presentes na arvore: 140
+Altura da arvore: 15
+Numero de folhas da arvore: 236
+Numero de acomodacoes presentes na arvore: 705
+Altura da arvore: 20
+Numero de folhas da arvore: 311
+Numero de acomodacoes presentes na arvore: 950
+Altura da arvore: 21
+Numero de folhas da arvore: 159
+Numero de acomodacoes presentes na arvore: 500
+Altura da arvore: 21
