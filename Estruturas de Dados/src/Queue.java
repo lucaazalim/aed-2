@@ -1,3 +1,6 @@
+import java.util.NoSuchElementException;
+import java.util.Objects;
+
 public class Queue<E> implements Cloneable {
 
     private final Node<E> front; // always the sentinel
@@ -37,7 +40,7 @@ public class Queue<E> implements Cloneable {
 
         beforeDequeued.setNext(node.getNext());
 
-        if(node == this.back) {
+        if (node == this.back) {
             this.back = beforeDequeued;
         }
 
@@ -66,8 +69,7 @@ public class Queue<E> implements Cloneable {
 
             if (node == this.back) {
                 throw new NoSuchElementException(
-                        "Index " + index + " is invalid. Queue size is " + this.size() + "."
-                );
+                        "Index " + index + " is invalid. Queue size is " + this.size() + ".");
             }
 
             node = node.getNext();
