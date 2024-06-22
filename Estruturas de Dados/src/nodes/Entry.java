@@ -1,4 +1,4 @@
-public class Entry<K extends Comparable<K>, V> implements Comparable<Entry<K, V>> {
+public class Entry<K, V> {
 
     private final K key;
     private final V value;
@@ -34,11 +34,6 @@ public class Entry<K extends Comparable<K>, V> implements Comparable<Entry<K, V>
         Entry<?, ?> entry = (Entry<?, ?>) other;
         return this.key.equals(entry.getKey());
 
-    }
-
-    @Override
-    public int compareTo(Entry<K, V> other) {
-        return this.key.compareTo(other.getKey());
     }
 
 }
