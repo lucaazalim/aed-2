@@ -19,6 +19,11 @@ Os enunciados dos exercícios foram elaboradas pela professora **Eveline Alonso*
   - Heap
   - Quick
 - Estruturas de Dados
-  - Pilhas
-  - Filas
-  - Listas
+  - Pilha
+  - Fila
+  - Lista
+  - Lista Encadeada
+  - Lista Duplamente Encadeada
+  - Árvore Binária de Busca
+  - Árvore AVL
+  - Tabela Hash
