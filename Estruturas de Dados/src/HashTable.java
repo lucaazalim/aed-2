@@ -24,7 +24,7 @@ public class HashTable<K extends Comparable<K>, V> {
     }
 
     private int hash(K key) {
-        return Math.abs(key.hashCode() / this.capacity);
+        return Math.abs(key.hashCode() % this.capacity);
     }
 
     public void put(K key, V value) {
@@ -48,7 +48,8 @@ public class HashTable<K extends Comparable<K>, V> {
     public void printSorted() {
 
         SortableDoublyLinkedList<Entry<K, V>> sortableValues = new SortableDoublyLinkedList<>();
-        Stream.of(this.table).forEach(tree -> tree.values().walk(sortableValues::add));
+        Stream.of(this.table).forEach(tree -> tree.walkOrdered(sortableValues::add));
+        sortableValues.sort();
         sortableValues.walk(entry -> System.out.println(entry.getValue()));
 
     }
