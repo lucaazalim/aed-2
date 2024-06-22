@@ -10,7 +10,7 @@ public class ReservedAreaHashTable<K, V> {
         this.table = (Entry<K, V>[]) new Entry[capacity + reserve];
     }
 
-    public int hash(K key) {
+    private int hash(K key) {
         return Math.abs(key.hashCode() % this.capacity);
     }
 
