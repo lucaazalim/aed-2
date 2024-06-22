@@ -1,2 +1,6 @@
+.gitignore
+*.iml
+.vscode
+.idea
 .DS_Store
 *.class
