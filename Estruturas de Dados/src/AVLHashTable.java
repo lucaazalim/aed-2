@@ -1,13 +1,14 @@
+
 import java.util.NoSuchElementException;
 import java.util.stream.Stream;
 
-public class HashTable<K extends Comparable<K>, V> {
+public class AVLHashTable<K extends Comparable<K>, V> {
 
     private final int capacity;
     private final AVL<Entry<K, V>>[] table;
 
     @SuppressWarnings("unchecked")
-    public HashTable(int capacity) {
+    public AVLHashTable(int capacity) {
 
         this.capacity = capacity;
         this.table = (AVL<Entry<K, V>>[]) new AVL[capacity];
@@ -16,6 +17,14 @@ public class HashTable<K extends Comparable<K>, V> {
             this.table[i] = new AVL<>();
         }
 
+    }
+
+    public boolean isEmpty() {
+        return Stream.of(this.table).allMatch(AVL::isEmpty);
+    }
+
+    public int getSize() {
+        return Stream.of(this.table).mapToInt(AVL::getSize).sum();
     }
 
     private AVL<Entry<K, V>> getTree(K key) {

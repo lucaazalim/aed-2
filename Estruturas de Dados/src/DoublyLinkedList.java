@@ -1,4 +1,7 @@
+import java.util.NoSuchElementException;
+import java.util.Objects;
 import java.util.function.Consumer;
+import java.util.function.Predicate;
 
 public class DoublyLinkedList<E> {
 
@@ -52,6 +55,21 @@ public class DoublyLinkedList<E> {
 
     }
 
+    public E get(E element) {
+
+        DoubleNode<E> node = this.first.getNext();
+
+        while (node != null) {
+            if (node.getElement().equals(element)) {
+                return node.getElement();
+            }
+            node = node.getNext();
+        }
+
+        throw new NoSuchElementException();
+
+    }
+
     public void add(E element) {
 
         DoubleNode<E> newNode = new DoubleNode<>(element, this.last, null);
@@ -59,6 +77,35 @@ public class DoublyLinkedList<E> {
         this.last.setNext(newNode);
         this.last = newNode;
         this.size++;
+
+    }
+
+    public void addAll(DoublyLinkedList<E> list) {
+
+        DoubleNode<E> node = list.getFirst().getNext();
+
+        while (node != null) {
+            this.add(node.getElement());
+            node = node.getNext();
+        }
+
+    }
+
+    public E remove(E element) {
+
+        DoubleNode<E> node = this.first.getNext();
+
+        while (node != null) {
+            if (Objects.equals(element, node.getElement())) {
+                node.getPrevious().setNext(node.getNext());
+                node.getNext().setPrevious(node.getPrevious());
+                this.size--;
+                return node.getElement();
+            }
+            node = node.getNext();
+        }
+
+        throw new NoSuchElementException();
 
     }
 
@@ -109,6 +156,36 @@ public class DoublyLinkedList<E> {
             consumer.accept(node.getElement());
             node = node.getNext();
         }
+
+    }
+
+    public boolean contains(E element) {
+
+        DoubleNode<E> node = this.first.getNext();
+
+        while (node != null) {
+            if (Objects.equals(element, node.getElement())) {
+                return true;
+            }
+            node = node.getNext();
+        }
+
+        return false;
+
+    }
+
+    public boolean contains(Predicate<E> predicate) {
+
+        DoubleNode<E> node = this.first.getNext();
+
+        while (node != null) {
+            if (predicate.test(node.getElement())) {
+                return true;
+            }
+            node = node.getNext();
+        }
+
+        return false;
 
     }
 
