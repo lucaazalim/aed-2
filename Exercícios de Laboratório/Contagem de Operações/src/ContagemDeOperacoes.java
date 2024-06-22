@@ -5,9 +5,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.function.Consumer;
 
-/**
- * @author Luca Azalim
- */
 public class ContagemDeOperacoes {
 
     public static void main(String[] args) {
