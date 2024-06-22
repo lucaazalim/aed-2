@@ -1,0 +1,702 @@
+Isabela Correia, (27) 25564-6622, isabela.correia@pucminas.br, Coracao Eucaristico
+Daniel Araujo, (71) 70949-1860, daniel.araujo@pucminas.br, Sao Gabriel
+Thiago Lima, (79) 42223-5487, thiago.lima@pucminas.br, Contagem
+Thiago Reis, (27) 16570-4128, thiago.reis@pucminas.br, Praca da Liberdade
+Eloisa Gomes, (45) 52384-8054, eloisa.gomes@pucminas.br, Coracao Eucaristico
+Pedro Cardoso, (91) 89705-4622, pedro.cardoso@pucminas.br, Praca da Liberdade
+Leticia Pinto, (46) 98695-8027, leticia.pinto@pucminas.br, Pocos de Caldas
+Daniel Correia, (56) 79642-1849, daniel.correia@pucminas.br, Praca da Liberdade
+Carlos Carvalho, (15) 53719-8407, carlos.carvalho@pucminas.br, Sao Gabriel
+Leonardo Freitas, (37) 78369-8383, leonardo.freitas@pucminas.br, Pocos de Caldas
+Carlos Souza, (94) 95294-6742, carlos.souza@pucminas.br, Coracao Eucaristico
+Rafael Pinto, (46) 53003-4291, rafael.pinto@pucminas.br, Coracao Eucaristico
+Luiza Farias, (95) 87935-1360, luiza.farias@pucminas.br, Sao Gabriel
+Eloisa Cardoso, (72) 20277-9997, eloisa.cardoso@pucminas.br, Sao Gabriel
+Clara Oliveira, (38) 61292-8466, clara.oliveira@pucminas.br, Praca da Liberdade
+Vinicius Lima, (58) 51163-4593, vinicius.lima@pucminas.br, Sao Gabriel
+Beatriz Pereira, (99) 19855-1513, beatriz.pereira@pucminas.br, Contagem
+Leticia Dias, (70) 35272-8668, leticia.dias@pucminas.br, Coracao Eucaristico
+Carlos Correia, (72) 44134-2464, carlos.correia@pucminas.br, Betim
+Sofia Lima, (89) 68770-3964, sofia.lima@pucminas.br, Betim
+Gabriel Santos, (23) 44357-4073, gabriel.santos@pucminas.br, Sao Gabriel
+Ana Araujo, (15) 17257-2940, ana.araujo@pucminas.br, Barreiro
+Leonardo Oliveira, (31) 91184-4797, leonardo.oliveira@pucminas.br, Pocos de Caldas
+Gabriel Reis, (14) 77958-5903, gabriel.reis@pucminas.br, Praca da Liberdade
+Thiago Dias, (19) 59264-1753, thiago.dias@pucminas.br, Betim
+Luiza Cardoso, (41) 48027-6200, luiza.cardoso@pucminas.br, Barreiro
+Leticia Pereira, (97) 90928-2524, leticia.pereira@pucminas.br, Contagem
+Larissa Cunha, (46) 20420-8698, larissa.cunha@pucminas.br, Coracao Eucaristico
+Matheus Almeida, (99) 47952-2960, matheus.almeida@pucminas.br, Coracao Eucaristico
+Luiza Nascimento, (53) 60541-5626, luiza.nascimento@pucminas.br, Praca da Liberdade
+Diego Pereira, (81) 39228-5269, diego.pereira@pucminas.br, Betim
+Leonardo Rocha, (28) 89919-9691, leonardo.rocha@pucminas.br, Betim
+Joana Carvalho, (13) 75894-7649, joana.carvalho@pucminas.br, Sao Gabriel
+Manuela Gomes, (54) 30004-9668, manuela.gomes@pucminas.br, Pocos de Caldas
+Carlos Cardoso, (63) 34761-3554, carlos.cardoso@pucminas.br, Praca da Liberdade
+Larissa Farias, (27) 73764-7992, larissa.farias@pucminas.br, Coracao Eucaristico
+Daniel Cardoso, (48) 10937-1534, daniel.cardoso@pucminas.br, Barreiro
+Gabriel Almeida, (31) 59476-7877, gabriel.almeida@pucminas.br, Praca da Liberdade
+Samuel Dias, (41) 58512-6740, samuel.dias@pucminas.br, Pocos de Caldas
+Mariana Correia, (21) 18162-2114, mariana.correia@pucminas.br, Pocos de Caldas
+Felipe Fernandes, (58) 44525-4594, felipe.fernandes@pucminas.br, Betim
+Sofia Reis, (51) 37995-4523, sofia.reis@pucminas.br, Pocos de Caldas
+Mariana Araujo, (80) 22742-9012, mariana.araujo@pucminas.br, Contagem
+Sofia Dias, (49) 49264-2360, sofia.dias@pucminas.br, Betim
+Rafael Correia, (33) 18930-7815, rafael.correia@pucminas.br, Barreiro
+Carlos Reis, (36) 79390-9835, carlos.reis@pucminas.br, Pocos de Caldas
+Rafael Nascimento, (55) 64206-5541, rafael.nascimento@pucminas.br, Barreiro
+Clara Rocha, (78) 32320-1998, clara.rocha@pucminas.br, Betim
+Manuela Carvalho, (43) 62802-6979, manuela.carvalho@pucminas.br, Coracao Eucaristico
+Isabela Mendes, (91) 10203-8715, isabela.mendes@pucminas.br, Praca da Liberdade
+Isabela Freitas, (94) 65416-8205, isabela.freitas@pucminas.br, Pocos de Caldas
+Matheus Mendes, (86) 22476-2845, matheus.mendes@pucminas.br, Sao Gabriel
+Matheus Costa, (68) 77440-5563, matheus.costa@pucminas.br, Barreiro
+Pedro Rocha, (40) 21368-7453, pedro.rocha@pucminas.br, Praca da Liberdade
+Isabela Barbosa, (71) 51770-2940, isabela.barbosa@pucminas.br, Barreiro
+Clara Carvalho, (88) 33273-9680, clara.carvalho@pucminas.br, Praca da Liberdade
+Larissa Pereira, (53) 70009-5121, larissa.pereira@pucminas.br, Coracao Eucaristico
+Fernanda Carvalho, (82) 59514-4403, fernanda.carvalho@pucminas.br, Pocos de Caldas
+Rafael Dias, (35) 30121-7708, rafael.dias@pucminas.br, Praca da Liberdade
+Lucas Santos, (25) 36263-3969, lucas.santos@pucminas.br, Betim
+Clara Farias, (35) 15893-4375, clara.farias@pucminas.br, Sao Gabriel
+Rafael Ribeiro, (70) 59355-1965, rafael.ribeiro@pucminas.br, Barreiro
+Matheus Nascimento, (51) 18321-1889, matheus.nascimento@pucminas.br, Sao Gabriel
+Gustavo Almeida, (37) 18045-2961, gustavo.almeida@pucminas.br, Coracao Eucaristico
+Vinicius Pereira, (43) 13681-7687, vinicius.pereira@pucminas.br, Pocos de Caldas
+Leticia Souza, (58) 75671-9543, leticia.souza@pucminas.br, Praca da Liberdade
+Samuel Pereira, (71) 59184-2326, samuel.pereira@pucminas.br, Sao Gabriel
+Daniel Cunha, (79) 63152-4397, daniel.cunha@pucminas.br, Coracao Eucaristico
+Fernanda Gomes, (23) 50163-7279, fernanda.gomes@pucminas.br, Coracao Eucaristico
+Felipe Alves, (51) 77616-6025, felipe.alves@pucminas.br, Praca da Liberdade
+Camila Pereira, (25) 60676-9568, camila.pereira@pucminas.br, Contagem
+Camila Pinto, (34) 45880-5796, camila.pinto@pucminas.br, Barreiro
+Beatriz Gomes, (76) 95326-2483, beatriz.gomes@pucminas.br, Coracao Eucaristico
+Camila Teixeira, (13) 71144-1768, camila.teixeira@pucminas.br, Praca da Liberdade
+Vinicius Almeida, (74) 49645-1651, vinicius.almeida@pucminas.br, Betim
+Matheus Ribeiro, (81) 30966-9680, matheus.ribeiro@pucminas.br, Pocos de Caldas
+Beatriz Silva, (24) 48304-3021, beatriz.silva@pucminas.br, Contagem
+Beatriz Carvalho, (11) 10841-3749, beatriz.carvalho@pucminas.br, Praca da Liberdade
+Camila Ribeiro, (92) 60192-6473, camila.ribeiro@pucminas.br, Pocos de Caldas
+Rafael Moreira, (91) 88986-9453, rafael.moreira@pucminas.br, Contagem
+Luiza Ribeiro, (90) 58339-3257, luiza.ribeiro@pucminas.br, Sao Gabriel
+Mariana Gomes, (69) 45694-6182, mariana.gomes@pucminas.br, Barreiro
+Lucas Lima, (90) 43848-2251, lucas.lima@pucminas.br, Sao Gabriel
+Joana Gomes, (75) 59035-7688, joana.gomes@pucminas.br, Praca da Liberdade
+Isabela Araujo, (11) 79031-4315, isabela.araujo@pucminas.br, Praca da Liberdade
+Mariana Cunha, (23) 28238-2536, mariana.cunha@pucminas.br, Contagem
+Luiza Silva, (35) 69036-5841, luiza.silva@pucminas.br, Pocos de Caldas
+Leticia Lima, (56) 86238-2698, leticia.lima@pucminas.br, Sao Gabriel
+Mariana Lima, (88) 10872-1410, mariana.lima@pucminas.br, Praca da Liberdade
+Julia Barbosa, (49) 48680-7663, julia.barbosa@pucminas.br, Contagem
+Thiago Alves, (19) 81628-4842, thiago.alves@pucminas.br, Betim
+Ricardo Almeida, (51) 42670-6492, ricardo.almeida@pucminas.br, Sao Gabriel
+Felipe Costa, (87) 47339-1853, felipe.costa@pucminas.br, Contagem
+Ana Correia, (99) 17622-6620, ana.correia@pucminas.br, Barreiro
+Daniel Almeida, (35) 39363-5799, daniel.almeida@pucminas.br, Barreiro
+Vinicius Ribeiro, (52) 70707-9252, vinicius.ribeiro@pucminas.br, Pocos de Caldas
+Felipe Moreira, (32) 98735-1537, felipe.moreira@pucminas.br, Barreiro
+Leticia Freitas, (92) 85980-4493, leticia.freitas@pucminas.br, Sao Gabriel
+Clara Almeida, (42) 19205-5339, clara.almeida@pucminas.br, Coracao Eucaristico
+Manuela Mendes, (59) 54959-1751, manuela.mendes@pucminas.br, Betim
+Ana Cunha, (43) 71375-5834, ana.cunha@pucminas.br, Betim
+Thiago Farias, (61) 96664-8985, thiago.farias@pucminas.br, Betim
+Camila Barbosa, (17) 64688-2270, camila.barbosa@pucminas.br, Betim
+Gabriel Cardoso, (29) 37307-6646, gabriel.cardoso@pucminas.br, Pocos de Caldas
+Samuel Teixeira, (99) 43614-3134, samuel.teixeira@pucminas.br, Contagem
+Diego Almeida, (26) 53474-5778, diego.almeida@pucminas.br, Betim
+Sofia Gomes, (38) 65030-6050, sofia.gomes@pucminas.br, Contagem
+Luiza Reis, (58) 35224-5576, luiza.reis@pucminas.br, Pocos de Caldas
+Mariana Costa, (72) 38238-7270, mariana.costa@pucminas.br, Praca da Liberdade
+Larissa Oliveira, (94) 39959-8887, larissa.oliveira@pucminas.br, Praca da Liberdade
+Manuela Costa, (86) 82547-6900, manuela.costa@pucminas.br, Betim
+Ricardo Dias, (97) 61898-1632, ricardo.dias@pucminas.br, Praca da Liberdade
+Camila Mendes, (36) 48832-5187, camila.mendes@pucminas.br, Contagem
+Thiago Cardoso, (12) 17335-3364, thiago.cardoso@pucminas.br, Barreiro
+Ana Almeida, (49) 74437-1728, ana.almeida@pucminas.br, Barreiro
+Vinicius Pinto, (35) 78952-7962, vinicius.pinto@pucminas.br, Praca da Liberdade
+Sofia Freitas, (33) 24793-9584, sofia.freitas@pucminas.br, Contagem
+Beatriz Alves, (73) 72030-8907, beatriz.alves@pucminas.br, Sao Gabriel
+Ricardo Gomes, (88) 18907-4830, ricardo.gomes@pucminas.br, Sao Gabriel
+Leticia Almeida, (15) 67388-1595, leticia.almeida@pucminas.br, Betim
+Lucas Freitas, (43) 81747-6262, lucas.freitas@pucminas.br, Praca da Liberdade
+Lucas Pereira, (37) 96128-7606, lucas.pereira@pucminas.br, Contagem
+Mariana Carvalho, (95) 26533-8116, mariana.carvalho@pucminas.br, Coracao Eucaristico
+Julia Cardoso, (36) 35514-6486, julia.cardoso@pucminas.br, Contagem
+Sofia Oliveira, (69) 60030-8847, sofia.oliveira@pucminas.br, Barreiro
+Vinicius Rocha, (33) 20548-7371, vinicius.rocha@pucminas.br, Praca da Liberdade
+Joana Pereira, (87) 48776-4980, joana.pereira@pucminas.br, Barreiro
+Beatriz Reis, (14) 55546-1483, beatriz.reis@pucminas.br, Betim
+Fernanda Reis, (61) 74145-2970, fernanda.reis@pucminas.br, Coracao Eucaristico
+Joana Santos, (45) 52997-2305, joana.santos@pucminas.br, Praca da Liberdade
+Daniel Teixeira, (17) 33903-5397, daniel.teixeira@pucminas.br, Sao Gabriel
+Gabriel Rocha, (77) 40559-3596, gabriel.rocha@pucminas.br, Barreiro
+Diego Nascimento, (82) 56667-5112, diego.nascimento@pucminas.br, Betim
+Daniel Gomes, (96) 12690-1247, daniel.gomes@pucminas.br, Sao Gabriel
+Ricardo Santos, (58) 68899-5342, ricardo.santos@pucminas.br, Sao Gabriel
+Diego Mendes, (17) 54646-4492, diego.mendes@pucminas.br, Praca da Liberdade
+Leonardo Barbosa, (41) 85285-4645, leonardo.barbosa@pucminas.br, Betim
+Isabela Santos, (57) 24172-1134, isabela.santos@pucminas.br, Pocos de Caldas
+Eloisa Souza, (58) 81850-1677, eloisa.souza@pucminas.br, Praca da Liberdade
+Sofia Fernandes, (69) 45969-3317, sofia.fernandes@pucminas.br, Barreiro
+Beatriz Cunha, (47) 40094-4392, beatriz.cunha@pucminas.br, Contagem
+Camila Moreira, (23) 86561-3730, camila.moreira@pucminas.br, Contagem
+Gustavo Teixeira, (80) 22626-5676, gustavo.teixeira@pucminas.br, Betim
+Samuel Alves, (15) 64665-2836, samuel.alves@pucminas.br, Praca da Liberdade
+Gabriel Rodrigues, (17) 53653-2583, gabriel.rodrigues@pucminas.br, Contagem
+Camila Martins, (85) 51040-4218, camila.martins@pucminas.br, Contagem
+Fernanda Pereira, (47) 95237-1759, fernanda.pereira@pucminas.br, Betim
+Daniel Martins, (65) 42322-6634, daniel.martins@pucminas.br, Betim
+Daniel Silva, (28) 49686-5767, daniel.silva@pucminas.br, Pocos de Caldas
+Rafael Pereira, (40) 94185-4668, rafael.pereira@pucminas.br, Coracao Eucaristico
+Fernanda Moreira, (81) 49708-5707, fernanda.moreira@pucminas.br, Betim
+Thiago Santos, (96) 92622-7881, thiago.santos@pucminas.br, Praca da Liberdade
+Isabela Rodrigues, (51) 37062-5647, isabela.rodrigues@pucminas.br, Pocos de Caldas
+Mariana Alves, (90) 43985-4710, mariana.alves@pucminas.br, Contagem
+Larissa Moreira, (44) 56135-7503, larissa.moreira@pucminas.br, Sao Gabriel
+Ana Santos, (69) 78513-5581, ana.santos@pucminas.br, Barreiro
+Isabela Lima, (34) 62634-7229, isabela.lima@pucminas.br, Praca da Liberdade
+Joana Cardoso, (86) 74419-2216, joana.cardoso@pucminas.br, Barreiro
+Mariana Nascimento, (58) 69054-7973, mariana.nascimento@pucminas.br, Praca da Liberdade
+Sofia Mendes, (57) 70655-6538, sofia.mendes@pucminas.br, Pocos de Caldas
+Luiza Almeida, (36) 34124-9615, luiza.almeida@pucminas.br, Pocos de Caldas
+Isabela Ribeiro, (51) 95598-8959, isabela.ribeiro@pucminas.br, Contagem
+Fernanda Costa, (21) 78842-7096, fernanda.costa@pucminas.br, Barreiro
+Vinicius Freitas, (37) 37175-3259, vinicius.freitas@pucminas.br, Sao Gabriel
+Larissa Dias, (72) 47468-5577, larissa.dias@pucminas.br, Pocos de Caldas
+Diego Alves, (53) 10010-2445, diego.alves@pucminas.br, Sao Gabriel
+Samuel Santos, (87) 41852-9570, samuel.santos@pucminas.br, Coracao Eucaristico
+Camila Lima, (60) 48910-8839, camila.lima@pucminas.br, Betim
+Leonardo Pereira, (84) 81784-3169, leonardo.pereira@pucminas.br, Praca da Liberdade
+Joana Rodrigues, (19) 34081-1378, joana.rodrigues@pucminas.br, Contagem
+Thiago Araujo, (91) 88118-1816, thiago.araujo@pucminas.br, Contagem
+Ana Rodrigues, (43) 81143-4487, ana.rodrigues@pucminas.br, Coracao Eucaristico
+Manuela Almeida, (17) 77571-5596, manuela.almeida@pucminas.br, Betim
+Beatriz Martins, (14) 73582-6239, beatriz.martins@pucminas.br, Contagem
+Julia Cunha, (39) 98227-7257, julia.cunha@pucminas.br, Pocos de Caldas
+Ricardo Martins, (45) 15963-9566, ricardo.martins@pucminas.br, Betim
+Isabela Pinto, (99) 14402-4429, isabela.pinto@pucminas.br, Betim
+Pedro Reis, (66) 85587-8416, pedro.reis@pucminas.br, Coracao Eucaristico
+Fernanda Fernandes, (33) 91811-2663, fernanda.fernandes@pucminas.br, Praca da Liberdade
+Gustavo Lima, (42) 64019-1266, gustavo.lima@pucminas.br, Betim
+Larissa Teixeira, (65) 66046-4637, larissa.teixeira@pucminas.br, Coracao Eucaristico
+Clara Araujo, (33) 84328-3432, clara.araujo@pucminas.br, Coracao Eucaristico
+Beatriz Rodrigues, (41) 65283-8531, beatriz.rodrigues@pucminas.br, Pocos de Caldas
+Daniel Costa, (81) 48254-1221, daniel.costa@pucminas.br, Pocos de Caldas
+Pedro Santos, (21) 16185-5985, pedro.santos@pucminas.br, Praca da Liberdade
+Joana Nascimento, (45) 79570-6179, joana.nascimento@pucminas.br, Contagem
+Leticia Costa, (49) 24712-8462, leticia.costa@pucminas.br, Barreiro
+Eloisa Teixeira, (30) 58248-1451, eloisa.teixeira@pucminas.br, Praca da Liberdade
+Matheus Carvalho, (54) 96502-7475, matheus.carvalho@pucminas.br, Pocos de Caldas
+Carlos Costa, (55) 90991-9500, carlos.costa@pucminas.br, Sao Gabriel
+Mariana Ribeiro, (65) 53965-5260, mariana.ribeiro@pucminas.br, Coracao Eucaristico
+Luiza Correia, (80) 87718-1590, luiza.correia@pucminas.br, Pocos de Caldas
+Felipe Lima, (73) 93684-5266, felipe.lima@pucminas.br, Praca da Liberdade
+Daniel Pereira, (17) 91714-5552, daniel.pereira@pucminas.br, Coracao Eucaristico
+Vinicius Correia, (10) 50196-5260, vinicius.correia@pucminas.br, Barreiro
+Camila Rodrigues, (50) 57894-6621, camila.rodrigues@pucminas.br, Coracao Eucaristico
+Manuela Correia, (82) 58890-7379, manuela.correia@pucminas.br, Sao Gabriel
+Camila Oliveira, (73) 73979-6844, camila.oliveira@pucminas.br, Coracao Eucaristico
+Rafael Teixeira, (42) 23777-9458, rafael.teixeira@pucminas.br, Sao Gabriel
+Ricardo Pereira, (83) 31984-6100, ricardo.pereira@pucminas.br, Contagem
+Diego Souza, (12) 86244-6870, diego.souza@pucminas.br, Coracao Eucaristico
+Ana Farias, (43) 93634-6614, ana.farias@pucminas.br, Betim
+Ana Pinto, (39) 40141-2458, ana.pinto@pucminas.br, Coracao Eucaristico
+Luiza Costa, (50) 61571-1452, luiza.costa@pucminas.br, Coracao Eucaristico
+Mariana Almeida, (33) 82571-1313, mariana.almeida@pucminas.br, Pocos de Caldas
+Vinicius Moreira, (54) 45740-6350, vinicius.moreira@pucminas.br, Contagem
+Isabela Souza, (38) 46275-8654, isabela.souza@pucminas.br, Barreiro
+Leticia Teixeira, (99) 73673-6477, leticia.teixeira@pucminas.br, Contagem
+Leonardo Souza, (83) 26566-9401, leonardo.souza@pucminas.br, Sao Gabriel
+Vinicius Rodrigues, (23) 86870-1784, vinicius.rodrigues@pucminas.br, Betim
+Gabriel Costa, (93) 86044-5215, gabriel.costa@pucminas.br, Praca da Liberdade
+Leticia Rodrigues, (28) 35808-2169, leticia.rodrigues@pucminas.br, Coracao Eucaristico
+Mariana Reis, (52) 63042-3325, mariana.reis@pucminas.br, Barreiro
+Felipe Araujo, (23) 68745-6092, felipe.araujo@pucminas.br, Contagem
+Carlos Martins, (88) 27749-1965, carlos.martins@pucminas.br, Contagem
+Gustavo Farias, (69) 33207-4356, gustavo.farias@pucminas.br, Contagem
+Mariana Moreira, (86) 58841-5803, mariana.moreira@pucminas.br, Barreiro
+Felipe Mendes, (71) 74154-5177, felipe.mendes@pucminas.br, Barreiro
+Fernanda Araujo, (10) 14757-7653, fernanda.araujo@pucminas.br, Betim
+Vinicius Souza, (64) 22628-7890, vinicius.souza@pucminas.br, Barreiro
+Gabriel Freitas, (38) 33531-8296, gabriel.freitas@pucminas.br, Betim
+Matheus Correia, (51) 12430-8920, matheus.correia@pucminas.br, Contagem
+Gabriel Barbosa, (59) 88885-7587, gabriel.barbosa@pucminas.br, Sao Gabriel
+Rafael Reis, (62) 88562-1354, rafael.reis@pucminas.br, Sao Gabriel
+Samuel Ribeiro, (52) 80977-3398, samuel.ribeiro@pucminas.br, Sao Gabriel
+Carlos Pereira, (36) 14918-3670, carlos.pereira@pucminas.br, Betim
+Leticia Fernandes, (18) 60063-8377, leticia.fernandes@pucminas.br, Barreiro
+Ricardo Rocha, (91) 36874-4531, ricardo.rocha@pucminas.br, Sao Gabriel
+Carlos Araujo, (40) 28748-1488, carlos.araujo@pucminas.br, Barreiro
+Mariana Teixeira, (15) 38357-7961, mariana.teixeira@pucminas.br, Sao Gabriel
+Beatriz Dias, (70) 78064-9263, beatriz.dias@pucminas.br, Pocos de Caldas
+Manuela Cardoso, (21) 48146-3872, manuela.cardoso@pucminas.br, Pocos de Caldas
+Felipe Correia, (16) 20200-8563, felipe.correia@pucminas.br, Coracao Eucaristico
+Larissa Araujo, (79) 56545-1273, larissa.araujo@pucminas.br, Betim
+Leonardo Santos, (72) 30048-1902, leonardo.santos@pucminas.br, Coracao Eucaristico
+Pedro Alves, (96) 23720-3297, pedro.alves@pucminas.br, Coracao Eucaristico
+Diego Rocha, (54) 59865-7170, diego.rocha@pucminas.br, Pocos de Caldas
+Pedro Costa, (57) 98100-9568, pedro.costa@pucminas.br, Sao Gabriel
+Gustavo Nascimento, (62) 74772-6514, gustavo.nascimento@pucminas.br, Betim
+Julia Fernandes, (76) 35938-8355, julia.fernandes@pucminas.br, Pocos de Caldas
+Isabela Alves, (15) 66345-4165, isabela.alves@pucminas.br, Pocos de Caldas
+Camila Santos, (65) 30975-9348, camila.santos@pucminas.br, Praca da Liberdade
+Lucas Barbosa, (55) 51620-6737, lucas.barbosa@pucminas.br, Coracao Eucaristico
+Leticia Martins, (16) 61878-6007, leticia.martins@pucminas.br, Coracao Eucaristico
+Sofia Santos, (83) 15506-7276, sofia.santos@pucminas.br, Sao Gabriel
+Samuel Fernandes, (92) 16518-1612, samuel.fernandes@pucminas.br, Pocos de Caldas
+Larissa Rocha, (61) 34843-9007, larissa.rocha@pucminas.br, Betim
+Carlos Cunha, (72) 62162-1066, carlos.cunha@pucminas.br, Betim
+Leonardo Correia, (98) 13623-2500, leonardo.correia@pucminas.br, Praca da Liberdade
+Gustavo Mendes, (89) 55299-1271, gustavo.mendes@pucminas.br, Pocos de Caldas
+Rafael Mendes, (98) 73481-1438, rafael.mendes@pucminas.br, Coracao Eucaristico
+Samuel Rocha, (95) 71202-7056, samuel.rocha@pucminas.br, Praca da Liberdade
+Lucas Reis, (43) 45712-1027, lucas.reis@pucminas.br, Pocos de Caldas
+Matheus Oliveira, (22) 60484-5993, matheus.oliveira@pucminas.br, Barreiro
+Clara Teixeira, (15) 23003-8847, clara.teixeira@pucminas.br, Praca da Liberdade
+Beatriz Souza, (58) 44468-9398, beatriz.souza@pucminas.br, Contagem
+Rafael Silva, (74) 72897-3918, rafael.silva@pucminas.br, Pocos de Caldas
+Joana Lima, (80) 42743-2564, joana.lima@pucminas.br, Betim
+Samuel Mendes, (13) 27878-8729, samuel.mendes@pucminas.br, Praca da Liberdade
+Eloisa Freitas, (50) 15851-7495, eloisa.freitas@pucminas.br, Coracao Eucaristico
+Luiza Carvalho, (62) 90827-8052, luiza.carvalho@pucminas.br, Betim
+Julia Reis, (69) 89203-8656, julia.reis@pucminas.br, Betim
+Camila Araujo, (52) 56057-4133, camila.araujo@pucminas.br, Coracao Eucaristico
+Beatriz Santos, (17) 49993-3241, beatriz.santos@pucminas.br, Sao Gabriel
+Rafael Barbosa, (15) 45132-7482, rafael.barbosa@pucminas.br, Barreiro
+Beatriz Lima, (31) 52058-3498, beatriz.lima@pucminas.br, Contagem
+Gabriel Alves, (72) 63692-6038, gabriel.alves@pucminas.br, Praca da Liberdade
+Daniel Nascimento, (44) 33199-1786, daniel.nascimento@pucminas.br, Pocos de Caldas
+Ana Rocha, (86) 29384-3997, ana.rocha@pucminas.br, Sao Gabriel
+Sofia Alves, (12) 16918-4234, sofia.alves@pucminas.br, Barreiro
+Fernanda Cardoso, (87) 72935-1112, fernanda.cardoso@pucminas.br, Praca da Liberdade
+Vinicius Barbosa, (43) 27160-7834, vinicius.barbosa@pucminas.br, Contagem
+Thiago Fernandes, (78) 82545-3977, thiago.fernandes@pucminas.br, Coracao Eucaristico
+Lucas Mendes, (42) 23201-5988, lucas.mendes@pucminas.br, Sao Gabriel
+Felipe Souza, (16) 23462-7595, felipe.souza@pucminas.br, Coracao Eucaristico
+Lucas Farias, (12) 93899-1604, lucas.farias@pucminas.br, Betim
+Mariana Pinto, (96) 95241-7200, mariana.pinto@pucminas.br, Pocos de Caldas
+Isabela Reis, (28) 53623-4185, isabela.reis@pucminas.br, Barreiro
+Lucas Martins, (61) 94860-4312, lucas.martins@pucminas.br, Barreiro
+Eloisa Moreira, (79) 53161-1988, eloisa.moreira@pucminas.br, Sao Gabriel
+Pedro Oliveira, (97) 36764-8143, pedro.oliveira@pucminas.br, Coracao Eucaristico
+Ricardo Ribeiro, (99) 84655-1750, ricardo.ribeiro@pucminas.br, Praca da Liberdade
+Diego Dias, (95) 92789-1325, diego.dias@pucminas.br, Barreiro
+Daniel Oliveira, (51) 73547-3551, daniel.oliveira@pucminas.br, Sao Gabriel
+Felipe Oliveira, (13) 29346-7258, felipe.oliveira@pucminas.br, Praca da Liberdade
+Camila Silva, (83) 82846-3996, camila.silva@pucminas.br, Betim
+Joana Costa, (30) 22863-4116, joana.costa@pucminas.br, Praca da Liberdade
+Diego Barbosa, (63) 56608-9525, diego.barbosa@pucminas.br, Barreiro
+Felipe Farias, (98) 53298-8970, felipe.farias@pucminas.br, Pocos de Caldas
+Manuela Pereira, (68) 82079-9779, manuela.pereira@pucminas.br, Contagem
+Leonardo Gomes, (25) 72500-2348, leonardo.gomes@pucminas.br, Betim
+Isabela Teixeira, (77) 96205-3981, isabela.teixeira@pucminas.br, Coracao Eucaristico
+Mariana Freitas, (62) 38336-9495, mariana.freitas@pucminas.br, Betim
+Camila Alves, (33) 16842-3323, camila.alves@pucminas.br, Pocos de Caldas
+Felipe Nascimento, (41) 90486-5320, felipe.nascimento@pucminas.br, Contagem
+Fernanda Dias, (82) 43294-4252, fernanda.dias@pucminas.br, Praca da Liberdade
+Leticia Correia, (77) 15825-4127, leticia.correia@pucminas.br, Barreiro
+Fernanda Cunha, (10) 30908-9919, fernanda.cunha@pucminas.br, Contagem
+Rafael Martins, (46) 98631-7349, rafael.martins@pucminas.br, Betim
+Manuela Pinto, (31) 68589-9628, manuela.pinto@pucminas.br, Sao Gabriel
+Pedro Mendes, (28) 64857-4386, pedro.mendes@pucminas.br, Contagem
+Julia Freitas, (76) 46814-6948, julia.freitas@pucminas.br, Praca da Liberdade
+Thiago Oliveira, (69) 36992-9028, thiago.oliveira@pucminas.br, Contagem
+Sofia Teixeira, (34) 26635-9235, sofia.teixeira@pucminas.br, Sao Gabriel
+Daniel Dias, (87) 47747-5091, daniel.dias@pucminas.br, Contagem
+Gustavo Costa, (50) 79636-6596, gustavo.costa@pucminas.br, Praca da Liberdade
+Samuel Oliveira, (81) 34596-8969, samuel.oliveira@pucminas.br, Coracao Eucaristico
+Samuel Almeida, (31) 68835-2956, samuel.almeida@pucminas.br, Barreiro
+Julia Mendes, (28) 70898-5205, julia.mendes@pucminas.br, Contagem
+Mariana Souza, (38) 28371-9033, mariana.souza@pucminas.br, Sao Gabriel
+Clara Martins, (94) 88341-2858, clara.martins@pucminas.br, Betim
+Julia Alves, (24) 36149-5641, julia.alves@pucminas.br, Betim
+Beatriz Ribeiro, (54) 12452-5020, beatriz.ribeiro@pucminas.br, Coracao Eucaristico
+Felipe Martins, (87) 39084-5804, felipe.martins@pucminas.br, Betim
+Ana Silva, (66) 20806-8321, ana.silva@pucminas.br, Barreiro
+Rafael Cardoso, (65) 68264-5669, rafael.cardoso@pucminas.br, Barreiro
+Leonardo Ribeiro, (13) 23769-7712, leonardo.ribeiro@pucminas.br, Coracao Eucaristico
+Carlos Freitas, (75) 69668-2330, carlos.freitas@pucminas.br, Betim
+Fernanda Teixeira, (41) 89210-4826, fernanda.teixeira@pucminas.br, Praca da Liberdade
+Samuel Nascimento, (27) 28589-5647, samuel.nascimento@pucminas.br, Praca da Liberdade
+Sofia Cunha, (29) 87448-6581, sofia.cunha@pucminas.br, Contagem
+Rafael Cunha, (61) 77234-4973, rafael.cunha@pucminas.br, Contagem
+Thiago Pinto, (78) 64868-9528, thiago.pinto@pucminas.br, Barreiro
+Carlos Teixeira, (63) 82054-9446, carlos.teixeira@pucminas.br, Betim
+Lucas Araujo, (62) 92163-8505, lucas.araujo@pucminas.br, Sao Gabriel
+Eloisa Lima, (19) 46925-2017, eloisa.lima@pucminas.br, Contagem
+Leonardo Martins, (25) 60694-1285, leonardo.martins@pucminas.br, Sao Gabriel
+Leonardo Reis, (90) 39141-6116, leonardo.reis@pucminas.br, Betim
+Luiza Araujo, (76) 56462-5682, luiza.araujo@pucminas.br, Coracao Eucaristico
+Luiza Lima, (11) 77787-1381, luiza.lima@pucminas.br, Sao Gabriel
+Luiza Santos, (64) 92583-1387, luiza.santos@pucminas.br, Coracao Eucaristico
+Beatriz Fernandes, (69) 43880-4483, beatriz.fernandes@pucminas.br, Barreiro
+Beatriz Costa, (95) 65044-1734, beatriz.costa@pucminas.br, Pocos de Caldas
+Gabriel Lima, (69) 74555-6188, gabriel.lima@pucminas.br, Barreiro
+Pedro Cunha, (75) 54598-9459, pedro.cunha@pucminas.br, Pocos de Caldas
+Manuela Nascimento, (45) 11328-1224, manuela.nascimento@pucminas.br, Pocos de Caldas
+Carlos Dias, (31) 59138-6835, carlos.dias@pucminas.br, Contagem
+Vinicius Costa, (82) 63966-7318, vinicius.costa@pucminas.br, Barreiro
+Diego Cardoso, (37) 62965-2877, diego.cardoso@pucminas.br, Contagem
+Ricardo Araujo, (38) 59515-7746, ricardo.araujo@pucminas.br, Betim
+Rafael Santos, (78) 55164-8097, rafael.santos@pucminas.br, Praca da Liberdade
+Felipe Rocha, (74) 83530-9884, felipe.rocha@pucminas.br, Barreiro
+Gabriel Araujo, (32) 86159-4148, gabriel.araujo@pucminas.br, Pocos de Caldas
+Eloisa Silva, (81) 23933-9569, eloisa.silva@pucminas.br, Sao Gabriel
+Felipe Carvalho, (69) 86229-7465, felipe.carvalho@pucminas.br, Betim
+Diego Teixeira, (42) 67805-3350, diego.teixeira@pucminas.br, Contagem
+Ana Freitas, (54) 46210-5456, ana.freitas@pucminas.br, Sao Gabriel
+Sofia Costa, (38) 49332-7508, sofia.costa@pucminas.br, Coracao Eucaristico
+Gustavo Pinto, (56) 65579-7772, gustavo.pinto@pucminas.br, Praca da Liberdade
+Ana Teixeira, (94) 38287-9027, ana.teixeira@pucminas.br, Contagem
+Gabriel Correia, (20) 33967-2365, gabriel.correia@pucminas.br, Coracao Eucaristico
+Sofia Araujo, (71) 26382-4065, sofia.araujo@pucminas.br, Sao Gabriel
+Vinicius Fernandes, (76) 19966-8128, vinicius.fernandes@pucminas.br, Coracao Eucaristico
+Leonardo Moreira, (30) 12064-4896, leonardo.moreira@pucminas.br, Coracao Eucaristico
+Lucas Ribeiro, (52) 92435-9331, lucas.ribeiro@pucminas.br, Sao Gabriel
+Vinicius Teixeira, (54) 55937-2900, vinicius.teixeira@pucminas.br, Sao Gabriel
+Felipe Ribeiro, (71) 86289-7902, felipe.ribeiro@pucminas.br, Sao Gabriel
+Pedro Pinto, (12) 96139-4935, pedro.pinto@pucminas.br, Barreiro
+Daniel Rodrigues, (14) 55162-9651, daniel.rodrigues@pucminas.br, Betim
+Pedro Teixeira, (55) 70855-2521, pedro.teixeira@pucminas.br, Contagem
+Thiago Gomes, (84) 63875-5208, thiago.gomes@pucminas.br, Barreiro
+Rafael Gomes, (31) 37512-5137, rafael.gomes@pucminas.br, Praca da Liberdade
+Clara Ribeiro, (75) 90711-5081, clara.ribeiro@pucminas.br, Coracao Eucaristico
+Pedro Carvalho, (55) 55269-2928, pedro.carvalho@pucminas.br, Pocos de Caldas
+Camila Rocha, (27) 13404-5009, camila.rocha@pucminas.br, Coracao Eucaristico
+Leonardo Carvalho, (40) 88780-9542, leonardo.carvalho@pucminas.br, Contagem
+Ricardo Silva, (21) 39693-4230, ricardo.silva@pucminas.br, Pocos de Caldas
+Eloisa Araujo, (83) 12767-6899, eloisa.araujo@pucminas.br, Pocos de Caldas
+Luiza Dias, (24) 11045-9937, luiza.dias@pucminas.br, Praca da Liberdade
+Joana Martins, (95) 71725-6962, joana.martins@pucminas.br, Contagem
+Thiago Teixeira, (72) 13281-2317, thiago.teixeira@pucminas.br, Praca da Liberdade
+Beatriz Cardoso, (84) 40033-3500, beatriz.cardoso@pucminas.br, Contagem
+Matheus Araujo, (40) 45005-4957, matheus.araujo@pucminas.br, Betim
+Manuela Araujo, (14) 25745-8178, manuela.araujo@pucminas.br, Coracao Eucaristico
+Eloisa Correia, (35) 38647-9447, eloisa.correia@pucminas.br, Sao Gabriel
+Sofia Rodrigues, (59) 11222-6797, sofia.rodrigues@pucminas.br, Coracao Eucaristico
+Pedro Gomes, (19) 23346-2341, pedro.gomes@pucminas.br, Betim
+Thiago Correia, (99) 88018-6570, thiago.correia@pucminas.br, Sao Gabriel
+Ana Cardoso, (73) 35530-8066, ana.cardoso@pucminas.br, Contagem
+Carlos Silva, (38) 69378-2008, carlos.silva@pucminas.br, Praca da Liberdade
+Matheus Santos, (96) 80296-7731, matheus.santos@pucminas.br, Barreiro
+Gustavo Alves, (23) 72252-2825, gustavo.alves@pucminas.br, Coracao Eucaristico
+Rafael Oliveira, (46) 63797-9337, rafael.oliveira@pucminas.br, Praca da Liberdade
+Isabela Carvalho, (88) 54526-3252, isabela.carvalho@pucminas.br, Betim
+Beatriz Pinto, (42) 97455-3810, beatriz.pinto@pucminas.br, Sao Gabriel
+Fernanda Lima, (83) 62627-8059, fernanda.lima@pucminas.br, Coracao Eucaristico
+Lucas Moreira, (71) 72514-6142, lucas.moreira@pucminas.br, Pocos de Caldas
+Thiago Rocha, (15) 15250-7106, thiago.rocha@pucminas.br, Sao Gabriel
+Matheus Moreira, (45) 82427-8731, matheus.moreira@pucminas.br, Sao Gabriel
+Matheus Dias, (24) 99107-7671, matheus.dias@pucminas.br, Pocos de Caldas
+Leticia Santos, (61) 89178-3291, leticia.santos@pucminas.br, Barreiro
+Rafael Almeida, (93) 87995-7601, rafael.almeida@pucminas.br, Coracao Eucaristico
+Ana Lima, (65) 94243-2523, ana.lima@pucminas.br, Pocos de Caldas
+Matheus Fernandes, (58) 42715-4554, matheus.fernandes@pucminas.br, Barreiro
+Joana Araujo, (23) 36225-2506, joana.araujo@pucminas.br, Betim
+Samuel Reis, (17) 78499-4567, samuel.reis@pucminas.br, Contagem
+Carlos Nascimento, (86) 48339-7139, carlos.nascimento@pucminas.br, Coracao Eucaristico
+Manuela Cunha, (71) 86714-2632, manuela.cunha@pucminas.br, Betim
+Isabela Gomes, (57) 26244-3867, isabela.gomes@pucminas.br, Coracao Eucaristico
+Larissa Freitas, (89) 40668-2104, larissa.freitas@pucminas.br, Barreiro
+Leonardo Araujo, (79) 86094-4918, leonardo.araujo@pucminas.br, Barreiro
+Felipe Cunha, (35) 16805-6964, felipe.cunha@pucminas.br, Praca da Liberdade
+Mariana Pereira, (35) 55065-8746, mariana.pereira@pucminas.br, Praca da Liberdade
+Camila Cunha, (14) 24589-6721, camila.cunha@pucminas.br, Coracao Eucaristico
+Ricardo Oliveira, (17) 34448-5379, ricardo.oliveira@pucminas.br, Contagem
+Joana Teixeira, (26) 12881-5001, joana.teixeira@pucminas.br, Contagem
+Leonardo Nascimento, (46) 42710-7521, leonardo.nascimento@pucminas.br, Coracao Eucaristico
+Eloisa Nascimento, (43) 55052-6499, eloisa.nascimento@pucminas.br, Contagem
+Carlos Rocha, (65) 36381-8156, carlos.rocha@pucminas.br, Barreiro
+Luiza Souza, (37) 96203-8139, luiza.souza@pucminas.br, Sao Gabriel
+Manuela Souza, (65) 25477-5255, manuela.souza@pucminas.br, Sao Gabriel
+Samuel Cardoso, (39) 93908-7179, samuel.cardoso@pucminas.br, Betim
+Ana Nascimento, (48) 33547-8068, ana.nascimento@pucminas.br, Contagem
+Leticia Oliveira, (70) 92162-4289, leticia.oliveira@pucminas.br, Contagem
+Julia Pereira, (54) 87354-7437, julia.pereira@pucminas.br, Coracao Eucaristico
+Gabriel Martins, (13) 42431-9378, gabriel.martins@pucminas.br, Barreiro
+Diego Correia, (47) 73982-5828, diego.correia@pucminas.br, Pocos de Caldas
+Sofia Almeida, (60) 99450-9777, sofia.almeida@pucminas.br, Contagem
+Carlos Mendes, (51) 84885-9734, carlos.mendes@pucminas.br, Barreiro
+Sofia Carvalho, (27) 50446-1743, sofia.carvalho@pucminas.br, Betim
+Gustavo Correia, (63) 46080-9307, gustavo.correia@pucminas.br, Sao Gabriel
+Pedro Barbosa, (23) 67119-1121, pedro.barbosa@pucminas.br, Pocos de Caldas
+Samuel Gomes, (87) 47315-7663, samuel.gomes@pucminas.br, Coracao Eucaristico
+Diego Santos, (17) 96446-7044, diego.santos@pucminas.br, Pocos de Caldas
+Julia Silva, (22) 61788-1710, julia.silva@pucminas.br, Sao Gabriel
+Eloisa Cunha, (54) 18490-8105, eloisa.cunha@pucminas.br, Barreiro
+Gustavo Martins, (89) 95257-5207, gustavo.martins@pucminas.br, Pocos de Caldas
+Samuel Barbosa, (42) 73229-4577, samuel.barbosa@pucminas.br, Praca da Liberdade
+Diego Moreira, (52) 52374-9953, diego.moreira@pucminas.br, Contagem
+Gabriel Pereira, (79) 24392-9077, gabriel.pereira@pucminas.br, Betim
+Daniel Fernandes, (65) 37799-7467, daniel.fernandes@pucminas.br, Barreiro
+Eloisa Barbosa, (68) 74232-4814, eloisa.barbosa@pucminas.br, Sao Gabriel
+Fernanda Almeida, (13) 11401-9834, fernanda.almeida@pucminas.br, Praca da Liberdade
+Eloisa Martins, (97) 41041-2676, eloisa.martins@pucminas.br, Barreiro
+Isabela Nascimento, (14) 30775-7154, isabela.nascimento@pucminas.br, Praca da Liberdade
+Eloisa Almeida, (32) 61173-5645, eloisa.almeida@pucminas.br, Barreiro
+Daniel Mendes, (85) 43945-5483, daniel.mendes@pucminas.br, Pocos de Caldas
+Julia Carvalho, (38) 52303-8912, julia.carvalho@pucminas.br, Sao Gabriel
+Ricardo Barbosa, (96) 50210-2752, ricardo.barbosa@pucminas.br, Sao Gabriel
+Matheus Barbosa, (98) 26381-8966, matheus.barbosa@pucminas.br, Barreiro
+Clara Lima, (19) 12911-6169, clara.lima@pucminas.br, Sao Gabriel
+Lucas Fernandes, (11) 74218-6594, lucas.fernandes@pucminas.br, Pocos de Caldas
+Luiza Teixeira, (33) 86683-8654, luiza.teixeira@pucminas.br, Contagem
+Diego Silva, (19) 35522-8598, diego.silva@pucminas.br, Betim
+Fernanda Correia, (72) 52287-8057, fernanda.correia@pucminas.br, Contagem
+Daniel Barbosa, (68) 81897-3893, daniel.barbosa@pucminas.br, Betim
+Luiza Pinto, (48) 32828-2761, luiza.pinto@pucminas.br, Pocos de Caldas
+Lucas Cardoso, (54) 60804-3195, lucas.cardoso@pucminas.br, Coracao Eucaristico
+Lucas Rodrigues, (63) 56407-5804, lucas.rodrigues@pucminas.br, Betim
+Clara Costa, (72) 94340-4521, clara.costa@pucminas.br, Praca da Liberdade
+Felipe Gomes, (67) 10228-5136, felipe.gomes@pucminas.br, Praca da Liberdade
+Larissa Almeida, (82) 94216-3755, larissa.almeida@pucminas.br, Contagem
+Joana Oliveira, (52) 32000-4330, joana.oliveira@pucminas.br, Pocos de Caldas
+Fernanda Souza, (17) 67007-1641, fernanda.souza@pucminas.br, Contagem
+Camila Nascimento, (90) 60095-2116, camila.nascimento@pucminas.br, Contagem
+Leticia Carvalho, (58) 67199-5931, leticia.carvalho@pucminas.br, Coracao Eucaristico
+Rafael Rocha, (40) 76596-3324, rafael.rocha@pucminas.br, Coracao Eucaristico
+Luiza Rodrigues, (76) 44922-7638, luiza.rodrigues@pucminas.br, Pocos de Caldas
+Leonardo Fernandes, (55) 10857-8205, leonardo.fernandes@pucminas.br, Betim
+Leticia Ribeiro, (32) 62218-6543, leticia.ribeiro@pucminas.br, Coracao Eucaristico
+Mariana Silva, (25) 34997-3063, mariana.silva@pucminas.br, Praca da Liberdade
+Leticia Moreira, (60) 64315-6216, leticia.moreira@pucminas.br, Betim
+Thiago Silva, (79) 27035-6561, thiago.silva@pucminas.br, Sao Gabriel
+Eloisa Reis, (18) 20824-5039, eloisa.reis@pucminas.br, Coracao Eucaristico
+Fernanda Mendes, (52) 73394-2452, fernanda.mendes@pucminas.br, Praca da Liberdade
+Clara Pereira, (71) 19577-2321, clara.pereira@pucminas.br, Sao Gabriel
+Beatriz Oliveira, (52) 42888-2658, beatriz.oliveira@pucminas.br, Betim
+Leticia Farias, (44) 74406-2001, leticia.farias@pucminas.br, Sao Gabriel
+Matheus Rocha, (81) 82261-3228, matheus.rocha@pucminas.br, Sao Gabriel
+Thiago Freitas, (88) 59167-8829, thiago.freitas@pucminas.br, Pocos de Caldas
+Ana Carvalho, (51) 17349-3874, ana.carvalho@pucminas.br, Coracao Eucaristico
+Ana Souza, (56) 58498-9418, ana.souza@pucminas.br, Betim
+Felipe Freitas, (19) 62660-4289, felipe.freitas@pucminas.br, Barreiro
+Manuela Reis, (56) 49364-4253, manuela.reis@pucminas.br, Betim
+Thiago Moreira, (50) 72422-3875, thiago.moreira@pucminas.br, Contagem
+Daniel Santos, (45) 18950-5830, daniel.santos@pucminas.br, Sao Gabriel
+Diego Rodrigues, (64) 45013-1644, diego.rodrigues@pucminas.br, Betim
+Daniel Carvalho, (60) 23720-5938, daniel.carvalho@pucminas.br, Betim
+Gustavo Araujo, (29) 34837-2135, gustavo.araujo@pucminas.br, Barreiro
+Camila Reis, (56) 51772-4882, camila.reis@pucminas.br, Betim
+Samuel Moreira, (72) 47943-8919, samuel.moreira@pucminas.br, Betim
+Julia Farias, (73) 49170-2290, julia.farias@pucminas.br, Contagem
+Eloisa Ribeiro, (98) 10353-3859, eloisa.ribeiro@pucminas.br, Coracao Eucaristico
+Manuela Lima, (68) 28256-4648, manuela.lima@pucminas.br, Praca da Liberdade
+Matheus Rodrigues, (32) 39690-6846, matheus.rodrigues@pucminas.br, Sao Gabriel
+Gustavo Fernandes, (96) 69847-2835, gustavo.fernandes@pucminas.br, Sao Gabriel
+Luiza Rocha, (15) 37941-5615, luiza.rocha@pucminas.br, Contagem
+Vinicius Dias, (66) 55164-1123, vinicius.dias@pucminas.br, Pocos de Caldas
+Vinicius Cardoso, (17) 70063-6020, vinicius.cardoso@pucminas.br, Sao Gabriel
+Beatriz Farias, (20) 19853-1251, beatriz.farias@pucminas.br, Sao Gabriel
+Vinicius Mendes, (33) 94613-4972, vinicius.mendes@pucminas.br, Sao Gabriel
+Beatriz Nascimento, (16) 43465-7709, beatriz.nascimento@pucminas.br, Barreiro
+Beatriz Barbosa, (42) 94308-1396, beatriz.barbosa@pucminas.br, Barreiro
+Ana Oliveira, (55) 60954-1022, ana.oliveira@pucminas.br, Barreiro
+Larissa Carvalho, (17) 96576-3663, larissa.carvalho@pucminas.br, Sao Gabriel
+Gabriel Cunha, (15) 51370-7259, gabriel.cunha@pucminas.br, Sao Gabriel
+Thiago Rodrigues, (88) 89064-2028, thiago.rodrigues@pucminas.br, Barreiro
+Samuel Pinto, (23) 39271-1517, samuel.pinto@pucminas.br, Sao Gabriel
+Beatriz Almeida, (47) 12911-3266, beatriz.almeida@pucminas.br, Praca da Liberdade
+Pedro Silva, (39) 56113-7668, pedro.silva@pucminas.br, Praca da Liberdade
+FIM
+200
+Isabela Barbosa
+Thiago Cardoso
+Leonardo Araujo
+Larissa Araujo
+Felipe Farias
+Samuel Gomes
+Manuela Almeida
+Vinicius Dias
+Thiago Moreira
+Julia Carvalho
+Leticia Almeida
+Beatriz Dias
+Felipe Mendes
+Pedro Mendes
+Camila Araujo
+Beatriz Silva
+Ana Pinto
+Beatriz Cardoso
+Gustavo Martins
+Felipe Alves
+Gabriel Martins
+Thiago Dias
+Eloisa Teixeira
+Clara Lima
+Lucas Rodrigues
+Thiago Rocha
+Lucas Santos
+Sofia Cunha
+Camila Lima
+Gustavo Pinto
+Gabriel Freitas
+Clara Ribeiro
+Vinicius Pinto
+Beatriz Reis
+Mariana Almeida
+Joana Cardoso
+Pedro Costa
+Julia Mendes
+Gabriel Araujo
+Beatriz Souza
+Daniel Fernandes
+Carlos Costa
+Leticia Santos
+Matheus Nascimento
+Julia Pereira
+Manuela Araujo
+Vinicius Freitas
+Joana Martins
+Diego Correia
+Clara Oliveira
+Ana Carvalho
+Lucas Barbosa
+Isabela Reis
+Clara Farias
+Rafael Nascimento
+Ana Cunha
+Leticia Martins
+Ricardo Barbosa
+Isabela Lima
+Rafael Pereira
+Lucas Reis
+Vinicius Cardoso
+Pedro Gomes
+Ana Nascimento
+Ana Rodrigues
+Isabela Nascimento
+Rafael Reis
+Felipe Souza
+Matheus Costa
+Camila Reis
+Leticia Dias
+Eloisa Moreira
+Julia Farias
+Thiago Rodrigues
+Sofia Carvalho
+Larissa Almeida
+Eloisa Cardoso
+Luiza Silva
+Ana Cardoso
+Carlos Martins
+Sofia Rodrigues
+Larissa Carvalho
+Ricardo Dias
+Rafael Correia
+Daniel Martins
+Eloisa Freitas
+Sofia Dias
+Ana Teixeira
+Samuel Oliveira
+Manuela Cardoso
+Sofia Freitas
+Isabela Araujo
+Luiza Almeida
+Carlos Araujo
+Clara Teixeira
+Rafael Oliveira
+Vinicius Souza
+Larissa Dias
+Beatriz Pinto
+Gustavo Costa
+Beatriz Oliveira
+Luiza Araujo
+Ana Oliveira
+Joana Nascimento
+Samuel Rocha
+Camila Ribeiro
+Fernanda Reis
+Luiza Carvalho
+Gabriel Correia
+Eloisa Lima
+Ricardo Oliveira
+Fernanda Cunha
+Julia Silva
+Lucas Pereira
+Samuel Pinto
+Matheus Ribeiro
+Beatriz Carvalho
+Sofia Santos
+Carlos Mendes
+Fernanda Souza
+Leticia Correia
+Rafael Cardoso
+Sofia Alves
+Gustavo Araujo
+Eloisa Reis
+Gustavo Correia
+Ana Lima
+Daniel Silva
+Leonardo Carvalho
+Pedro Alves
+Vinicius Costa
+Diego Rodrigues
+Pedro Silva
+Ana Correia
+Rafael Dias
+Fernanda Carvalho
+Clara Costa
+Ana Santos
+Rafael Rocha
+Rafael Almeida
+Luiza Correia
+Leticia Pereira
+Luiza Pinto
+Matheus Fernandes
+Carlos Dias
+Samuel Barbosa
+Mariana Silva
+Joana Pereira
+Pedro Reis
+Julia Barbosa
+Carlos Pereira
+Daniel Teixeira
+Samuel Alves
+Vinicius Ribeiro
+Mariana Araujo
+Vinicius Rocha
+Daniel Gomes
+Thiago Silva
+Matheus Araujo
+Joana Lima
+Daniel Nascimento
+Thiago Oliveira
+Carlos Teixeira
+Daniel Almeida
+Gustavo Teixeira
+Mariana Cunha
+Leonardo Freitas
+Camila Nascimento
+Pedro Rocha
+Ana Almeida
+Samuel Pereira
+Leticia Rodrigues
+Mariana Reis
+Leonardo Pereira
+Samuel Almeida
+Luiza Costa
+Larissa Freitas
+Eloisa Gomes
+Rafael Santos
+Ana Araujo
+Gustavo Fernandes
+Luiza Farias
+Vinicius Rodrigues
+Camila Rocha
+Samuel Ribeiro
+Matheus Dias
+Fernanda Dias
+Camila Mendes
+Samuel Reis
+Julia Alves
+Larissa Teixeira
+Beatriz Lima
+Mariana Costa
+Camila Teixeira
+Beatriz Rodrigues
+Samuel Fernandes
+Camila Moreira
+Diego Santos
+Ana Rocha
+Felipe Carvalho

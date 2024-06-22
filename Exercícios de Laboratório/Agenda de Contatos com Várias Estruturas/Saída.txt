@@ -1,0 +1,2801 @@
+Nome: Isabela Barbosa
+Telefone: (71) 51770-2940
+E-mail: isabela.barbosa@pucminas.br
+Endereco: Barreiro
+Nome: Thiago Cardoso
+Telefone: (12) 17335-3364
+E-mail: thiago.cardoso@pucminas.br
+Endereco: Barreiro
+Nome: Leonardo Araujo
+Telefone: (79) 86094-4918
+E-mail: leonardo.araujo@pucminas.br
+Endereco: Barreiro
+Nome: Larissa Araujo
+Telefone: (79) 56545-1273
+E-mail: larissa.araujo@pucminas.br
+Endereco: Betim
+Nome: Felipe Farias
+Telefone: (98) 53298-8970
+E-mail: felipe.farias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Samuel Gomes
+Telefone: (87) 47315-7663
+E-mail: samuel.gomes@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Manuela Almeida
+Telefone: (17) 77571-5596
+E-mail: manuela.almeida@pucminas.br
+Endereco: Betim
+Nome: Vinicius Dias
+Telefone: (66) 55164-1123
+E-mail: vinicius.dias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Thiago Moreira
+Telefone: (50) 72422-3875
+E-mail: thiago.moreira@pucminas.br
+Endereco: Contagem
+Nome: Julia Carvalho
+Telefone: (38) 52303-8912
+E-mail: julia.carvalho@pucminas.br
+Endereco: Sao Gabriel
+Nome: Leticia Almeida
+Telefone: (15) 67388-1595
+E-mail: leticia.almeida@pucminas.br
+Endereco: Betim
+Nome: Beatriz Dias
+Telefone: (70) 78064-9263
+E-mail: beatriz.dias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Felipe Mendes
+Telefone: (71) 74154-5177
+E-mail: felipe.mendes@pucminas.br
+Endereco: Barreiro
+Nome: Pedro Mendes
+Telefone: (28) 64857-4386
+E-mail: pedro.mendes@pucminas.br
+Endereco: Contagem
+Nome: Camila Araujo
+Telefone: (52) 56057-4133
+E-mail: camila.araujo@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Beatriz Silva
+Telefone: (24) 48304-3021
+E-mail: beatriz.silva@pucminas.br
+Endereco: Contagem
+Nome: Ana Pinto
+Telefone: (39) 40141-2458
+E-mail: ana.pinto@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Beatriz Cardoso
+Telefone: (84) 40033-3500
+E-mail: beatriz.cardoso@pucminas.br
+Endereco: Contagem
+Nome: Gustavo Martins
+Telefone: (89) 95257-5207
+E-mail: gustavo.martins@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Felipe Alves
+Telefone: (51) 77616-6025
+E-mail: felipe.alves@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Gabriel Martins
+Telefone: (13) 42431-9378
+E-mail: gabriel.martins@pucminas.br
+Endereco: Barreiro
+Nome: Thiago Dias
+Telefone: (19) 59264-1753
+E-mail: thiago.dias@pucminas.br
+Endereco: Betim
+Nome: Eloisa Teixeira
+Telefone: (30) 58248-1451
+E-mail: eloisa.teixeira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Clara Lima
+Telefone: (19) 12911-6169
+E-mail: clara.lima@pucminas.br
+Endereco: Sao Gabriel
+Nome: Lucas Rodrigues
+Telefone: (63) 56407-5804
+E-mail: lucas.rodrigues@pucminas.br
+Endereco: Betim
+Nome: Thiago Rocha
+Telefone: (15) 15250-7106
+E-mail: thiago.rocha@pucminas.br
+Endereco: Sao Gabriel
+Nome: Lucas Santos
+Telefone: (25) 36263-3969
+E-mail: lucas.santos@pucminas.br
+Endereco: Betim
+Nome: Sofia Cunha
+Telefone: (29) 87448-6581
+E-mail: sofia.cunha@pucminas.br
+Endereco: Contagem
+Nome: Camila Lima
+Telefone: (60) 48910-8839
+E-mail: camila.lima@pucminas.br
+Endereco: Betim
+Nome: Gustavo Pinto
+Telefone: (56) 65579-7772
+E-mail: gustavo.pinto@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Gabriel Freitas
+Telefone: (38) 33531-8296
+E-mail: gabriel.freitas@pucminas.br
+Endereco: Betim
+Nome: Clara Ribeiro
+Telefone: (75) 90711-5081
+E-mail: clara.ribeiro@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Vinicius Pinto
+Telefone: (35) 78952-7962
+E-mail: vinicius.pinto@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Beatriz Reis
+Telefone: (14) 55546-1483
+E-mail: beatriz.reis@pucminas.br
+Endereco: Betim
+Nome: Mariana Almeida
+Telefone: (33) 82571-1313
+E-mail: mariana.almeida@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Joana Cardoso
+Telefone: (86) 74419-2216
+E-mail: joana.cardoso@pucminas.br
+Endereco: Barreiro
+Nome: Pedro Costa
+Telefone: (57) 98100-9568
+E-mail: pedro.costa@pucminas.br
+Endereco: Sao Gabriel
+Nome: Julia Mendes
+Telefone: (28) 70898-5205
+E-mail: julia.mendes@pucminas.br
+Endereco: Contagem
+Nome: Gabriel Araujo
+Telefone: (32) 86159-4148
+E-mail: gabriel.araujo@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Beatriz Souza
+Telefone: (58) 44468-9398
+E-mail: beatriz.souza@pucminas.br
+Endereco: Contagem
+Nome: Daniel Fernandes
+Telefone: (65) 37799-7467
+E-mail: daniel.fernandes@pucminas.br
+Endereco: Barreiro
+Nome: Carlos Costa
+Telefone: (55) 90991-9500
+E-mail: carlos.costa@pucminas.br
+Endereco: Sao Gabriel
+Nome: Leticia Santos
+Telefone: (61) 89178-3291
+E-mail: leticia.santos@pucminas.br
+Endereco: Barreiro
+Nome: Matheus Nascimento
+Telefone: (51) 18321-1889
+E-mail: matheus.nascimento@pucminas.br
+Endereco: Sao Gabriel
+Nome: Julia Pereira
+Telefone: (54) 87354-7437
+E-mail: julia.pereira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Manuela Araujo
+Telefone: (14) 25745-8178
+E-mail: manuela.araujo@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Vinicius Freitas
+Telefone: (37) 37175-3259
+E-mail: vinicius.freitas@pucminas.br
+Endereco: Sao Gabriel
+Nome: Joana Martins
+Telefone: (95) 71725-6962
+E-mail: joana.martins@pucminas.br
+Endereco: Contagem
+Nome: Diego Correia
+Telefone: (47) 73982-5828
+E-mail: diego.correia@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Clara Oliveira
+Telefone: (38) 61292-8466
+E-mail: clara.oliveira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Ana Carvalho
+Telefone: (51) 17349-3874
+E-mail: ana.carvalho@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Lucas Barbosa
+Telefone: (55) 51620-6737
+E-mail: lucas.barbosa@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Isabela Reis
+Telefone: (28) 53623-4185
+E-mail: isabela.reis@pucminas.br
+Endereco: Barreiro
+Nome: Clara Farias
+Telefone: (35) 15893-4375
+E-mail: clara.farias@pucminas.br
+Endereco: Sao Gabriel
+Nome: Rafael Nascimento
+Telefone: (55) 64206-5541
+E-mail: rafael.nascimento@pucminas.br
+Endereco: Barreiro
+Nome: Ana Cunha
+Telefone: (43) 71375-5834
+E-mail: ana.cunha@pucminas.br
+Endereco: Betim
+Nome: Leticia Martins
+Telefone: (16) 61878-6007
+E-mail: leticia.martins@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Ricardo Barbosa
+Telefone: (96) 50210-2752
+E-mail: ricardo.barbosa@pucminas.br
+Endereco: Sao Gabriel
+Nome: Isabela Lima
+Telefone: (34) 62634-7229
+E-mail: isabela.lima@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Rafael Pereira
+Telefone: (40) 94185-4668
+E-mail: rafael.pereira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Lucas Reis
+Telefone: (43) 45712-1027
+E-mail: lucas.reis@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Vinicius Cardoso
+Telefone: (17) 70063-6020
+E-mail: vinicius.cardoso@pucminas.br
+Endereco: Sao Gabriel
+Nome: Pedro Gomes
+Telefone: (19) 23346-2341
+E-mail: pedro.gomes@pucminas.br
+Endereco: Betim
+Nome: Ana Nascimento
+Telefone: (48) 33547-8068
+E-mail: ana.nascimento@pucminas.br
+Endereco: Contagem
+Nome: Ana Rodrigues
+Telefone: (43) 81143-4487
+E-mail: ana.rodrigues@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Isabela Nascimento
+Telefone: (14) 30775-7154
+E-mail: isabela.nascimento@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Rafael Reis
+Telefone: (62) 88562-1354
+E-mail: rafael.reis@pucminas.br
+Endereco: Sao Gabriel
+Nome: Felipe Souza
+Telefone: (16) 23462-7595
+E-mail: felipe.souza@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Matheus Costa
+Telefone: (68) 77440-5563
+E-mail: matheus.costa@pucminas.br
+Endereco: Barreiro
+Nome: Camila Reis
+Telefone: (56) 51772-4882
+E-mail: camila.reis@pucminas.br
+Endereco: Betim
+Nome: Leticia Dias
+Telefone: (70) 35272-8668
+E-mail: leticia.dias@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Eloisa Moreira
+Telefone: (79) 53161-1988
+E-mail: eloisa.moreira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Julia Farias
+Telefone: (73) 49170-2290
+E-mail: julia.farias@pucminas.br
+Endereco: Contagem
+Nome: Thiago Rodrigues
+Telefone: (88) 89064-2028
+E-mail: thiago.rodrigues@pucminas.br
+Endereco: Barreiro
+Nome: Sofia Carvalho
+Telefone: (27) 50446-1743
+E-mail: sofia.carvalho@pucminas.br
+Endereco: Betim
+Nome: Larissa Almeida
+Telefone: (82) 94216-3755
+E-mail: larissa.almeida@pucminas.br
+Endereco: Contagem
+Nome: Eloisa Cardoso
+Telefone: (72) 20277-9997
+E-mail: eloisa.cardoso@pucminas.br
+Endereco: Sao Gabriel
+Nome: Luiza Silva
+Telefone: (35) 69036-5841
+E-mail: luiza.silva@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Ana Cardoso
+Telefone: (73) 35530-8066
+E-mail: ana.cardoso@pucminas.br
+Endereco: Contagem
+Nome: Carlos Martins
+Telefone: (88) 27749-1965
+E-mail: carlos.martins@pucminas.br
+Endereco: Contagem
+Nome: Sofia Rodrigues
+Telefone: (59) 11222-6797
+E-mail: sofia.rodrigues@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Larissa Carvalho
+Telefone: (17) 96576-3663
+E-mail: larissa.carvalho@pucminas.br
+Endereco: Sao Gabriel
+Nome: Ricardo Dias
+Telefone: (97) 61898-1632
+E-mail: ricardo.dias@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Rafael Correia
+Telefone: (33) 18930-7815
+E-mail: rafael.correia@pucminas.br
+Endereco: Barreiro
+Nome: Daniel Martins
+Telefone: (65) 42322-6634
+E-mail: daniel.martins@pucminas.br
+Endereco: Betim
+Nome: Eloisa Freitas
+Telefone: (50) 15851-7495
+E-mail: eloisa.freitas@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Sofia Dias
+Telefone: (49) 49264-2360
+E-mail: sofia.dias@pucminas.br
+Endereco: Betim
+Nome: Ana Teixeira
+Telefone: (94) 38287-9027
+E-mail: ana.teixeira@pucminas.br
+Endereco: Contagem
+Nome: Samuel Oliveira
+Telefone: (81) 34596-8969
+E-mail: samuel.oliveira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Manuela Cardoso
+Telefone: (21) 48146-3872
+E-mail: manuela.cardoso@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Sofia Freitas
+Telefone: (33) 24793-9584
+E-mail: sofia.freitas@pucminas.br
+Endereco: Contagem
+Nome: Isabela Araujo
+Telefone: (11) 79031-4315
+E-mail: isabela.araujo@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Luiza Almeida
+Telefone: (36) 34124-9615
+E-mail: luiza.almeida@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Carlos Araujo
+Telefone: (40) 28748-1488
+E-mail: carlos.araujo@pucminas.br
+Endereco: Barreiro
+Nome: Clara Teixeira
+Telefone: (15) 23003-8847
+E-mail: clara.teixeira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Rafael Oliveira
+Telefone: (46) 63797-9337
+E-mail: rafael.oliveira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Vinicius Souza
+Telefone: (64) 22628-7890
+E-mail: vinicius.souza@pucminas.br
+Endereco: Barreiro
+Nome: Larissa Dias
+Telefone: (72) 47468-5577
+E-mail: larissa.dias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Beatriz Pinto
+Telefone: (42) 97455-3810
+E-mail: beatriz.pinto@pucminas.br
+Endereco: Sao Gabriel
+Nome: Gustavo Costa
+Telefone: (50) 79636-6596
+E-mail: gustavo.costa@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Beatriz Oliveira
+Telefone: (52) 42888-2658
+E-mail: beatriz.oliveira@pucminas.br
+Endereco: Betim
+Nome: Luiza Araujo
+Telefone: (76) 56462-5682
+E-mail: luiza.araujo@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Ana Oliveira
+Telefone: (55) 60954-1022
+E-mail: ana.oliveira@pucminas.br
+Endereco: Barreiro
+Nome: Joana Nascimento
+Telefone: (45) 79570-6179
+E-mail: joana.nascimento@pucminas.br
+Endereco: Contagem
+Nome: Samuel Rocha
+Telefone: (95) 71202-7056
+E-mail: samuel.rocha@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Camila Ribeiro
+Telefone: (92) 60192-6473
+E-mail: camila.ribeiro@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Fernanda Reis
+Telefone: (61) 74145-2970
+E-mail: fernanda.reis@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Luiza Carvalho
+Telefone: (62) 90827-8052
+E-mail: luiza.carvalho@pucminas.br
+Endereco: Betim
+Nome: Gabriel Correia
+Telefone: (20) 33967-2365
+E-mail: gabriel.correia@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Eloisa Lima
+Telefone: (19) 46925-2017
+E-mail: eloisa.lima@pucminas.br
+Endereco: Contagem
+Nome: Ricardo Oliveira
+Telefone: (17) 34448-5379
+E-mail: ricardo.oliveira@pucminas.br
+Endereco: Contagem
+Nome: Fernanda Cunha
+Telefone: (10) 30908-9919
+E-mail: fernanda.cunha@pucminas.br
+Endereco: Contagem
+Nome: Julia Silva
+Telefone: (22) 61788-1710
+E-mail: julia.silva@pucminas.br
+Endereco: Sao Gabriel
+Nome: Lucas Pereira
+Telefone: (37) 96128-7606
+E-mail: lucas.pereira@pucminas.br
+Endereco: Contagem
+Nome: Samuel Pinto
+Telefone: (23) 39271-1517
+E-mail: samuel.pinto@pucminas.br
+Endereco: Sao Gabriel
+Nome: Matheus Ribeiro
+Telefone: (81) 30966-9680
+E-mail: matheus.ribeiro@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Beatriz Carvalho
+Telefone: (11) 10841-3749
+E-mail: beatriz.carvalho@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Sofia Santos
+Telefone: (83) 15506-7276
+E-mail: sofia.santos@pucminas.br
+Endereco: Sao Gabriel
+Nome: Carlos Mendes
+Telefone: (51) 84885-9734
+E-mail: carlos.mendes@pucminas.br
+Endereco: Barreiro
+Nome: Fernanda Souza
+Telefone: (17) 67007-1641
+E-mail: fernanda.souza@pucminas.br
+Endereco: Contagem
+Nome: Leticia Correia
+Telefone: (77) 15825-4127
+E-mail: leticia.correia@pucminas.br
+Endereco: Barreiro
+Nome: Rafael Cardoso
+Telefone: (65) 68264-5669
+E-mail: rafael.cardoso@pucminas.br
+Endereco: Barreiro
+Nome: Sofia Alves
+Telefone: (12) 16918-4234
+E-mail: sofia.alves@pucminas.br
+Endereco: Barreiro
+Nome: Gustavo Araujo
+Telefone: (29) 34837-2135
+E-mail: gustavo.araujo@pucminas.br
+Endereco: Barreiro
+Nome: Eloisa Reis
+Telefone: (18) 20824-5039
+E-mail: eloisa.reis@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Gustavo Correia
+Telefone: (63) 46080-9307
+E-mail: gustavo.correia@pucminas.br
+Endereco: Sao Gabriel
+Nome: Ana Lima
+Telefone: (65) 94243-2523
+E-mail: ana.lima@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Daniel Silva
+Telefone: (28) 49686-5767
+E-mail: daniel.silva@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Leonardo Carvalho
+Telefone: (40) 88780-9542
+E-mail: leonardo.carvalho@pucminas.br
+Endereco: Contagem
+Nome: Pedro Alves
+Telefone: (96) 23720-3297
+E-mail: pedro.alves@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Vinicius Costa
+Telefone: (82) 63966-7318
+E-mail: vinicius.costa@pucminas.br
+Endereco: Barreiro
+Nome: Diego Rodrigues
+Telefone: (64) 45013-1644
+E-mail: diego.rodrigues@pucminas.br
+Endereco: Betim
+Nome: Pedro Silva
+Telefone: (39) 56113-7668
+E-mail: pedro.silva@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Ana Correia
+Telefone: (99) 17622-6620
+E-mail: ana.correia@pucminas.br
+Endereco: Barreiro
+Nome: Rafael Dias
+Telefone: (35) 30121-7708
+E-mail: rafael.dias@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Fernanda Carvalho
+Telefone: (82) 59514-4403
+E-mail: fernanda.carvalho@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Clara Costa
+Telefone: (72) 94340-4521
+E-mail: clara.costa@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Ana Santos
+Telefone: (69) 78513-5581
+E-mail: ana.santos@pucminas.br
+Endereco: Barreiro
+Nome: Rafael Rocha
+Telefone: (40) 76596-3324
+E-mail: rafael.rocha@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Rafael Almeida
+Telefone: (93) 87995-7601
+E-mail: rafael.almeida@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Luiza Correia
+Telefone: (80) 87718-1590
+E-mail: luiza.correia@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Leticia Pereira
+Telefone: (97) 90928-2524
+E-mail: leticia.pereira@pucminas.br
+Endereco: Contagem
+Nome: Luiza Pinto
+Telefone: (48) 32828-2761
+E-mail: luiza.pinto@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Matheus Fernandes
+Telefone: (58) 42715-4554
+E-mail: matheus.fernandes@pucminas.br
+Endereco: Barreiro
+Nome: Carlos Dias
+Telefone: (31) 59138-6835
+E-mail: carlos.dias@pucminas.br
+Endereco: Contagem
+Nome: Samuel Barbosa
+Telefone: (42) 73229-4577
+E-mail: samuel.barbosa@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Mariana Silva
+Telefone: (25) 34997-3063
+E-mail: mariana.silva@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Joana Pereira
+Telefone: (87) 48776-4980
+E-mail: joana.pereira@pucminas.br
+Endereco: Barreiro
+Nome: Pedro Reis
+Telefone: (66) 85587-8416
+E-mail: pedro.reis@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Julia Barbosa
+Telefone: (49) 48680-7663
+E-mail: julia.barbosa@pucminas.br
+Endereco: Contagem
+Nome: Carlos Pereira
+Telefone: (36) 14918-3670
+E-mail: carlos.pereira@pucminas.br
+Endereco: Betim
+Nome: Daniel Teixeira
+Telefone: (17) 33903-5397
+E-mail: daniel.teixeira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Samuel Alves
+Telefone: (15) 64665-2836
+E-mail: samuel.alves@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Vinicius Ribeiro
+Telefone: (52) 70707-9252
+E-mail: vinicius.ribeiro@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Mariana Araujo
+Telefone: (80) 22742-9012
+E-mail: mariana.araujo@pucminas.br
+Endereco: Contagem
+Nome: Vinicius Rocha
+Telefone: (33) 20548-7371
+E-mail: vinicius.rocha@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Daniel Gomes
+Telefone: (96) 12690-1247
+E-mail: daniel.gomes@pucminas.br
+Endereco: Sao Gabriel
+Nome: Thiago Silva
+Telefone: (79) 27035-6561
+E-mail: thiago.silva@pucminas.br
+Endereco: Sao Gabriel
+Nome: Matheus Araujo
+Telefone: (40) 45005-4957
+E-mail: matheus.araujo@pucminas.br
+Endereco: Betim
+Nome: Joana Lima
+Telefone: (80) 42743-2564
+E-mail: joana.lima@pucminas.br
+Endereco: Betim
+Nome: Daniel Nascimento
+Telefone: (44) 33199-1786
+E-mail: daniel.nascimento@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Thiago Oliveira
+Telefone: (69) 36992-9028
+E-mail: thiago.oliveira@pucminas.br
+Endereco: Contagem
+Nome: Carlos Teixeira
+Telefone: (63) 82054-9446
+E-mail: carlos.teixeira@pucminas.br
+Endereco: Betim
+Nome: Daniel Almeida
+Telefone: (35) 39363-5799
+E-mail: daniel.almeida@pucminas.br
+Endereco: Barreiro
+Nome: Gustavo Teixeira
+Telefone: (80) 22626-5676
+E-mail: gustavo.teixeira@pucminas.br
+Endereco: Betim
+Nome: Mariana Cunha
+Telefone: (23) 28238-2536
+E-mail: mariana.cunha@pucminas.br
+Endereco: Contagem
+Nome: Leonardo Freitas
+Telefone: (37) 78369-8383
+E-mail: leonardo.freitas@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Camila Nascimento
+Telefone: (90) 60095-2116
+E-mail: camila.nascimento@pucminas.br
+Endereco: Contagem
+Nome: Pedro Rocha
+Telefone: (40) 21368-7453
+E-mail: pedro.rocha@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Ana Almeida
+Telefone: (49) 74437-1728
+E-mail: ana.almeida@pucminas.br
+Endereco: Barreiro
+Nome: Samuel Pereira
+Telefone: (71) 59184-2326
+E-mail: samuel.pereira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Leticia Rodrigues
+Telefone: (28) 35808-2169
+E-mail: leticia.rodrigues@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Mariana Reis
+Telefone: (52) 63042-3325
+E-mail: mariana.reis@pucminas.br
+Endereco: Barreiro
+Nome: Leonardo Pereira
+Telefone: (84) 81784-3169
+E-mail: leonardo.pereira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Samuel Almeida
+Telefone: (31) 68835-2956
+E-mail: samuel.almeida@pucminas.br
+Endereco: Barreiro
+Nome: Luiza Costa
+Telefone: (50) 61571-1452
+E-mail: luiza.costa@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Larissa Freitas
+Telefone: (89) 40668-2104
+E-mail: larissa.freitas@pucminas.br
+Endereco: Barreiro
+Nome: Eloisa Gomes
+Telefone: (45) 52384-8054
+E-mail: eloisa.gomes@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Rafael Santos
+Telefone: (78) 55164-8097
+E-mail: rafael.santos@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Ana Araujo
+Telefone: (15) 17257-2940
+E-mail: ana.araujo@pucminas.br
+Endereco: Barreiro
+Nome: Gustavo Fernandes
+Telefone: (96) 69847-2835
+E-mail: gustavo.fernandes@pucminas.br
+Endereco: Sao Gabriel
+Nome: Luiza Farias
+Telefone: (95) 87935-1360
+E-mail: luiza.farias@pucminas.br
+Endereco: Sao Gabriel
+Nome: Vinicius Rodrigues
+Telefone: (23) 86870-1784
+E-mail: vinicius.rodrigues@pucminas.br
+Endereco: Betim
+Nome: Camila Rocha
+Telefone: (27) 13404-5009
+E-mail: camila.rocha@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Samuel Ribeiro
+Telefone: (52) 80977-3398
+E-mail: samuel.ribeiro@pucminas.br
+Endereco: Sao Gabriel
+Nome: Matheus Dias
+Telefone: (24) 99107-7671
+E-mail: matheus.dias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Fernanda Dias
+Telefone: (82) 43294-4252
+E-mail: fernanda.dias@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Camila Mendes
+Telefone: (36) 48832-5187
+E-mail: camila.mendes@pucminas.br
+Endereco: Contagem
+Nome: Samuel Reis
+Telefone: (17) 78499-4567
+E-mail: samuel.reis@pucminas.br
+Endereco: Contagem
+Nome: Julia Alves
+Telefone: (24) 36149-5641
+E-mail: julia.alves@pucminas.br
+Endereco: Betim
+Nome: Larissa Teixeira
+Telefone: (65) 66046-4637
+E-mail: larissa.teixeira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Beatriz Lima
+Telefone: (31) 52058-3498
+E-mail: beatriz.lima@pucminas.br
+Endereco: Contagem
+Nome: Mariana Costa
+Telefone: (72) 38238-7270
+E-mail: mariana.costa@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Camila Teixeira
+Telefone: (13) 71144-1768
+E-mail: camila.teixeira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Beatriz Rodrigues
+Telefone: (41) 65283-8531
+E-mail: beatriz.rodrigues@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Samuel Fernandes
+Telefone: (92) 16518-1612
+E-mail: samuel.fernandes@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Camila Moreira
+Telefone: (23) 86561-3730
+E-mail: camila.moreira@pucminas.br
+Endereco: Contagem
+Nome: Diego Santos
+Telefone: (17) 96446-7044
+E-mail: diego.santos@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Ana Rocha
+Telefone: (86) 29384-3997
+E-mail: ana.rocha@pucminas.br
+Endereco: Sao Gabriel
+Nome: Felipe Carvalho
+Telefone: (69) 86229-7465
+E-mail: felipe.carvalho@pucminas.br
+Endereco: Betim
+Contatos na agenda:
+Nome: Ana Almeida
+Telefone: (49) 74437-1728
+E-mail: ana.almeida@pucminas.br
+Endereco: Barreiro
+Nome: Ana Araujo
+Telefone: (15) 17257-2940
+E-mail: ana.araujo@pucminas.br
+Endereco: Barreiro
+Nome: Ana Cardoso
+Telefone: (73) 35530-8066
+E-mail: ana.cardoso@pucminas.br
+Endereco: Contagem
+Nome: Ana Carvalho
+Telefone: (51) 17349-3874
+E-mail: ana.carvalho@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Ana Correia
+Telefone: (99) 17622-6620
+E-mail: ana.correia@pucminas.br
+Endereco: Barreiro
+Nome: Ana Cunha
+Telefone: (43) 71375-5834
+E-mail: ana.cunha@pucminas.br
+Endereco: Betim
+Nome: Ana Farias
+Telefone: (43) 93634-6614
+E-mail: ana.farias@pucminas.br
+Endereco: Betim
+Nome: Ana Freitas
+Telefone: (54) 46210-5456
+E-mail: ana.freitas@pucminas.br
+Endereco: Sao Gabriel
+Nome: Ana Lima
+Telefone: (65) 94243-2523
+E-mail: ana.lima@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Ana Nascimento
+Telefone: (48) 33547-8068
+E-mail: ana.nascimento@pucminas.br
+Endereco: Contagem
+Nome: Ana Oliveira
+Telefone: (55) 60954-1022
+E-mail: ana.oliveira@pucminas.br
+Endereco: Barreiro
+Nome: Ana Pinto
+Telefone: (39) 40141-2458
+E-mail: ana.pinto@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Ana Rocha
+Telefone: (86) 29384-3997
+E-mail: ana.rocha@pucminas.br
+Endereco: Sao Gabriel
+Nome: Ana Rodrigues
+Telefone: (43) 81143-4487
+E-mail: ana.rodrigues@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Ana Santos
+Telefone: (69) 78513-5581
+E-mail: ana.santos@pucminas.br
+Endereco: Barreiro
+Nome: Ana Silva
+Telefone: (66) 20806-8321
+E-mail: ana.silva@pucminas.br
+Endereco: Barreiro
+Nome: Ana Souza
+Telefone: (56) 58498-9418
+E-mail: ana.souza@pucminas.br
+Endereco: Betim
+Nome: Ana Teixeira
+Telefone: (94) 38287-9027
+E-mail: ana.teixeira@pucminas.br
+Endereco: Contagem
+Nome: Beatriz Almeida
+Telefone: (47) 12911-3266
+E-mail: beatriz.almeida@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Beatriz Alves
+Telefone: (73) 72030-8907
+E-mail: beatriz.alves@pucminas.br
+Endereco: Sao Gabriel
+Nome: Beatriz Barbosa
+Telefone: (42) 94308-1396
+E-mail: beatriz.barbosa@pucminas.br
+Endereco: Barreiro
+Nome: Beatriz Cardoso
+Telefone: (84) 40033-3500
+E-mail: beatriz.cardoso@pucminas.br
+Endereco: Contagem
+Nome: Beatriz Carvalho
+Telefone: (11) 10841-3749
+E-mail: beatriz.carvalho@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Beatriz Costa
+Telefone: (95) 65044-1734
+E-mail: beatriz.costa@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Beatriz Cunha
+Telefone: (47) 40094-4392
+E-mail: beatriz.cunha@pucminas.br
+Endereco: Contagem
+Nome: Beatriz Dias
+Telefone: (70) 78064-9263
+E-mail: beatriz.dias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Beatriz Farias
+Telefone: (20) 19853-1251
+E-mail: beatriz.farias@pucminas.br
+Endereco: Sao Gabriel
+Nome: Beatriz Fernandes
+Telefone: (69) 43880-4483
+E-mail: beatriz.fernandes@pucminas.br
+Endereco: Barreiro
+Nome: Beatriz Gomes
+Telefone: (76) 95326-2483
+E-mail: beatriz.gomes@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Beatriz Lima
+Telefone: (31) 52058-3498
+E-mail: beatriz.lima@pucminas.br
+Endereco: Contagem
+Nome: Beatriz Martins
+Telefone: (14) 73582-6239
+E-mail: beatriz.martins@pucminas.br
+Endereco: Contagem
+Nome: Beatriz Nascimento
+Telefone: (16) 43465-7709
+E-mail: beatriz.nascimento@pucminas.br
+Endereco: Barreiro
+Nome: Beatriz Oliveira
+Telefone: (52) 42888-2658
+E-mail: beatriz.oliveira@pucminas.br
+Endereco: Betim
+Nome: Beatriz Pereira
+Telefone: (99) 19855-1513
+E-mail: beatriz.pereira@pucminas.br
+Endereco: Contagem
+Nome: Beatriz Pinto
+Telefone: (42) 97455-3810
+E-mail: beatriz.pinto@pucminas.br
+Endereco: Sao Gabriel
+Nome: Beatriz Reis
+Telefone: (14) 55546-1483
+E-mail: beatriz.reis@pucminas.br
+Endereco: Betim
+Nome: Beatriz Ribeiro
+Telefone: (54) 12452-5020
+E-mail: beatriz.ribeiro@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Beatriz Rodrigues
+Telefone: (41) 65283-8531
+E-mail: beatriz.rodrigues@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Beatriz Santos
+Telefone: (17) 49993-3241
+E-mail: beatriz.santos@pucminas.br
+Endereco: Sao Gabriel
+Nome: Beatriz Silva
+Telefone: (24) 48304-3021
+E-mail: beatriz.silva@pucminas.br
+Endereco: Contagem
+Nome: Beatriz Souza
+Telefone: (58) 44468-9398
+E-mail: beatriz.souza@pucminas.br
+Endereco: Contagem
+Nome: Camila Alves
+Telefone: (33) 16842-3323
+E-mail: camila.alves@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Camila Araujo
+Telefone: (52) 56057-4133
+E-mail: camila.araujo@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Camila Barbosa
+Telefone: (17) 64688-2270
+E-mail: camila.barbosa@pucminas.br
+Endereco: Betim
+Nome: Camila Cunha
+Telefone: (14) 24589-6721
+E-mail: camila.cunha@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Camila Lima
+Telefone: (60) 48910-8839
+E-mail: camila.lima@pucminas.br
+Endereco: Betim
+Nome: Camila Martins
+Telefone: (85) 51040-4218
+E-mail: camila.martins@pucminas.br
+Endereco: Contagem
+Nome: Camila Mendes
+Telefone: (36) 48832-5187
+E-mail: camila.mendes@pucminas.br
+Endereco: Contagem
+Nome: Camila Moreira
+Telefone: (23) 86561-3730
+E-mail: camila.moreira@pucminas.br
+Endereco: Contagem
+Nome: Camila Nascimento
+Telefone: (90) 60095-2116
+E-mail: camila.nascimento@pucminas.br
+Endereco: Contagem
+Nome: Camila Oliveira
+Telefone: (73) 73979-6844
+E-mail: camila.oliveira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Camila Pereira
+Telefone: (25) 60676-9568
+E-mail: camila.pereira@pucminas.br
+Endereco: Contagem
+Nome: Camila Pinto
+Telefone: (34) 45880-5796
+E-mail: camila.pinto@pucminas.br
+Endereco: Barreiro
+Nome: Camila Reis
+Telefone: (56) 51772-4882
+E-mail: camila.reis@pucminas.br
+Endereco: Betim
+Nome: Camila Ribeiro
+Telefone: (92) 60192-6473
+E-mail: camila.ribeiro@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Camila Rocha
+Telefone: (27) 13404-5009
+E-mail: camila.rocha@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Camila Rodrigues
+Telefone: (50) 57894-6621
+E-mail: camila.rodrigues@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Camila Santos
+Telefone: (65) 30975-9348
+E-mail: camila.santos@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Camila Silva
+Telefone: (83) 82846-3996
+E-mail: camila.silva@pucminas.br
+Endereco: Betim
+Nome: Camila Teixeira
+Telefone: (13) 71144-1768
+E-mail: camila.teixeira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Carlos Araujo
+Telefone: (40) 28748-1488
+E-mail: carlos.araujo@pucminas.br
+Endereco: Barreiro
+Nome: Carlos Cardoso
+Telefone: (63) 34761-3554
+E-mail: carlos.cardoso@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Carlos Carvalho
+Telefone: (15) 53719-8407
+E-mail: carlos.carvalho@pucminas.br
+Endereco: Sao Gabriel
+Nome: Carlos Correia
+Telefone: (72) 44134-2464
+E-mail: carlos.correia@pucminas.br
+Endereco: Betim
+Nome: Carlos Costa
+Telefone: (55) 90991-9500
+E-mail: carlos.costa@pucminas.br
+Endereco: Sao Gabriel
+Nome: Carlos Cunha
+Telefone: (72) 62162-1066
+E-mail: carlos.cunha@pucminas.br
+Endereco: Betim
+Nome: Carlos Dias
+Telefone: (31) 59138-6835
+E-mail: carlos.dias@pucminas.br
+Endereco: Contagem
+Nome: Carlos Freitas
+Telefone: (75) 69668-2330
+E-mail: carlos.freitas@pucminas.br
+Endereco: Betim
+Nome: Carlos Martins
+Telefone: (88) 27749-1965
+E-mail: carlos.martins@pucminas.br
+Endereco: Contagem
+Nome: Carlos Mendes
+Telefone: (51) 84885-9734
+E-mail: carlos.mendes@pucminas.br
+Endereco: Barreiro
+Nome: Carlos Nascimento
+Telefone: (86) 48339-7139
+E-mail: carlos.nascimento@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Carlos Pereira
+Telefone: (36) 14918-3670
+E-mail: carlos.pereira@pucminas.br
+Endereco: Betim
+Nome: Carlos Reis
+Telefone: (36) 79390-9835
+E-mail: carlos.reis@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Carlos Rocha
+Telefone: (65) 36381-8156
+E-mail: carlos.rocha@pucminas.br
+Endereco: Barreiro
+Nome: Carlos Silva
+Telefone: (38) 69378-2008
+E-mail: carlos.silva@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Carlos Souza
+Telefone: (94) 95294-6742
+E-mail: carlos.souza@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Carlos Teixeira
+Telefone: (63) 82054-9446
+E-mail: carlos.teixeira@pucminas.br
+Endereco: Betim
+Nome: Clara Almeida
+Telefone: (42) 19205-5339
+E-mail: clara.almeida@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Clara Araujo
+Telefone: (33) 84328-3432
+E-mail: clara.araujo@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Clara Carvalho
+Telefone: (88) 33273-9680
+E-mail: clara.carvalho@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Clara Costa
+Telefone: (72) 94340-4521
+E-mail: clara.costa@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Clara Farias
+Telefone: (35) 15893-4375
+E-mail: clara.farias@pucminas.br
+Endereco: Sao Gabriel
+Nome: Clara Lima
+Telefone: (19) 12911-6169
+E-mail: clara.lima@pucminas.br
+Endereco: Sao Gabriel
+Nome: Clara Martins
+Telefone: (94) 88341-2858
+E-mail: clara.martins@pucminas.br
+Endereco: Betim
+Nome: Clara Oliveira
+Telefone: (38) 61292-8466
+E-mail: clara.oliveira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Clara Pereira
+Telefone: (71) 19577-2321
+E-mail: clara.pereira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Clara Ribeiro
+Telefone: (75) 90711-5081
+E-mail: clara.ribeiro@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Clara Rocha
+Telefone: (78) 32320-1998
+E-mail: clara.rocha@pucminas.br
+Endereco: Betim
+Nome: Clara Teixeira
+Telefone: (15) 23003-8847
+E-mail: clara.teixeira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Daniel Almeida
+Telefone: (35) 39363-5799
+E-mail: daniel.almeida@pucminas.br
+Endereco: Barreiro
+Nome: Daniel Araujo
+Telefone: (71) 70949-1860
+E-mail: daniel.araujo@pucminas.br
+Endereco: Sao Gabriel
+Nome: Daniel Barbosa
+Telefone: (68) 81897-3893
+E-mail: daniel.barbosa@pucminas.br
+Endereco: Betim
+Nome: Daniel Cardoso
+Telefone: (48) 10937-1534
+E-mail: daniel.cardoso@pucminas.br
+Endereco: Barreiro
+Nome: Daniel Carvalho
+Telefone: (60) 23720-5938
+E-mail: daniel.carvalho@pucminas.br
+Endereco: Betim
+Nome: Daniel Correia
+Telefone: (56) 79642-1849
+E-mail: daniel.correia@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Daniel Costa
+Telefone: (81) 48254-1221
+E-mail: daniel.costa@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Daniel Cunha
+Telefone: (79) 63152-4397
+E-mail: daniel.cunha@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Daniel Dias
+Telefone: (87) 47747-5091
+E-mail: daniel.dias@pucminas.br
+Endereco: Contagem
+Nome: Daniel Fernandes
+Telefone: (65) 37799-7467
+E-mail: daniel.fernandes@pucminas.br
+Endereco: Barreiro
+Nome: Daniel Gomes
+Telefone: (96) 12690-1247
+E-mail: daniel.gomes@pucminas.br
+Endereco: Sao Gabriel
+Nome: Daniel Martins
+Telefone: (65) 42322-6634
+E-mail: daniel.martins@pucminas.br
+Endereco: Betim
+Nome: Daniel Mendes
+Telefone: (85) 43945-5483
+E-mail: daniel.mendes@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Daniel Nascimento
+Telefone: (44) 33199-1786
+E-mail: daniel.nascimento@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Daniel Oliveira
+Telefone: (51) 73547-3551
+E-mail: daniel.oliveira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Daniel Pereira
+Telefone: (17) 91714-5552
+E-mail: daniel.pereira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Daniel Rodrigues
+Telefone: (14) 55162-9651
+E-mail: daniel.rodrigues@pucminas.br
+Endereco: Betim
+Nome: Daniel Santos
+Telefone: (45) 18950-5830
+E-mail: daniel.santos@pucminas.br
+Endereco: Sao Gabriel
+Nome: Daniel Silva
+Telefone: (28) 49686-5767
+E-mail: daniel.silva@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Daniel Teixeira
+Telefone: (17) 33903-5397
+E-mail: daniel.teixeira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Diego Almeida
+Telefone: (26) 53474-5778
+E-mail: diego.almeida@pucminas.br
+Endereco: Betim
+Nome: Diego Alves
+Telefone: (53) 10010-2445
+E-mail: diego.alves@pucminas.br
+Endereco: Sao Gabriel
+Nome: Diego Barbosa
+Telefone: (63) 56608-9525
+E-mail: diego.barbosa@pucminas.br
+Endereco: Barreiro
+Nome: Diego Cardoso
+Telefone: (37) 62965-2877
+E-mail: diego.cardoso@pucminas.br
+Endereco: Contagem
+Nome: Diego Correia
+Telefone: (47) 73982-5828
+E-mail: diego.correia@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Diego Dias
+Telefone: (95) 92789-1325
+E-mail: diego.dias@pucminas.br
+Endereco: Barreiro
+Nome: Diego Mendes
+Telefone: (17) 54646-4492
+E-mail: diego.mendes@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Diego Moreira
+Telefone: (52) 52374-9953
+E-mail: diego.moreira@pucminas.br
+Endereco: Contagem
+Nome: Diego Nascimento
+Telefone: (82) 56667-5112
+E-mail: diego.nascimento@pucminas.br
+Endereco: Betim
+Nome: Diego Pereira
+Telefone: (81) 39228-5269
+E-mail: diego.pereira@pucminas.br
+Endereco: Betim
+Nome: Diego Rocha
+Telefone: (54) 59865-7170
+E-mail: diego.rocha@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Diego Rodrigues
+Telefone: (64) 45013-1644
+E-mail: diego.rodrigues@pucminas.br
+Endereco: Betim
+Nome: Diego Santos
+Telefone: (17) 96446-7044
+E-mail: diego.santos@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Diego Silva
+Telefone: (19) 35522-8598
+E-mail: diego.silva@pucminas.br
+Endereco: Betim
+Nome: Diego Souza
+Telefone: (12) 86244-6870
+E-mail: diego.souza@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Diego Teixeira
+Telefone: (42) 67805-3350
+E-mail: diego.teixeira@pucminas.br
+Endereco: Contagem
+Nome: Eloisa Almeida
+Telefone: (32) 61173-5645
+E-mail: eloisa.almeida@pucminas.br
+Endereco: Barreiro
+Nome: Eloisa Araujo
+Telefone: (83) 12767-6899
+E-mail: eloisa.araujo@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Eloisa Barbosa
+Telefone: (68) 74232-4814
+E-mail: eloisa.barbosa@pucminas.br
+Endereco: Sao Gabriel
+Nome: Eloisa Cardoso
+Telefone: (72) 20277-9997
+E-mail: eloisa.cardoso@pucminas.br
+Endereco: Sao Gabriel
+Nome: Eloisa Correia
+Telefone: (35) 38647-9447
+E-mail: eloisa.correia@pucminas.br
+Endereco: Sao Gabriel
+Nome: Eloisa Cunha
+Telefone: (54) 18490-8105
+E-mail: eloisa.cunha@pucminas.br
+Endereco: Barreiro
+Nome: Eloisa Freitas
+Telefone: (50) 15851-7495
+E-mail: eloisa.freitas@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Eloisa Gomes
+Telefone: (45) 52384-8054
+E-mail: eloisa.gomes@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Eloisa Lima
+Telefone: (19) 46925-2017
+E-mail: eloisa.lima@pucminas.br
+Endereco: Contagem
+Nome: Eloisa Martins
+Telefone: (97) 41041-2676
+E-mail: eloisa.martins@pucminas.br
+Endereco: Barreiro
+Nome: Eloisa Moreira
+Telefone: (79) 53161-1988
+E-mail: eloisa.moreira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Eloisa Nascimento
+Telefone: (43) 55052-6499
+E-mail: eloisa.nascimento@pucminas.br
+Endereco: Contagem
+Nome: Eloisa Reis
+Telefone: (18) 20824-5039
+E-mail: eloisa.reis@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Eloisa Ribeiro
+Telefone: (98) 10353-3859
+E-mail: eloisa.ribeiro@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Eloisa Silva
+Telefone: (81) 23933-9569
+E-mail: eloisa.silva@pucminas.br
+Endereco: Sao Gabriel
+Nome: Eloisa Souza
+Telefone: (58) 81850-1677
+E-mail: eloisa.souza@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Eloisa Teixeira
+Telefone: (30) 58248-1451
+E-mail: eloisa.teixeira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Felipe Alves
+Telefone: (51) 77616-6025
+E-mail: felipe.alves@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Felipe Araujo
+Telefone: (23) 68745-6092
+E-mail: felipe.araujo@pucminas.br
+Endereco: Contagem
+Nome: Felipe Carvalho
+Telefone: (69) 86229-7465
+E-mail: felipe.carvalho@pucminas.br
+Endereco: Betim
+Nome: Felipe Correia
+Telefone: (16) 20200-8563
+E-mail: felipe.correia@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Felipe Costa
+Telefone: (87) 47339-1853
+E-mail: felipe.costa@pucminas.br
+Endereco: Contagem
+Nome: Felipe Cunha
+Telefone: (35) 16805-6964
+E-mail: felipe.cunha@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Felipe Farias
+Telefone: (98) 53298-8970
+E-mail: felipe.farias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Felipe Fernandes
+Telefone: (58) 44525-4594
+E-mail: felipe.fernandes@pucminas.br
+Endereco: Betim
+Nome: Felipe Freitas
+Telefone: (19) 62660-4289
+E-mail: felipe.freitas@pucminas.br
+Endereco: Barreiro
+Nome: Felipe Gomes
+Telefone: (67) 10228-5136
+E-mail: felipe.gomes@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Felipe Lima
+Telefone: (73) 93684-5266
+E-mail: felipe.lima@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Felipe Martins
+Telefone: (87) 39084-5804
+E-mail: felipe.martins@pucminas.br
+Endereco: Betim
+Nome: Felipe Mendes
+Telefone: (71) 74154-5177
+E-mail: felipe.mendes@pucminas.br
+Endereco: Barreiro
+Nome: Felipe Moreira
+Telefone: (32) 98735-1537
+E-mail: felipe.moreira@pucminas.br
+Endereco: Barreiro
+Nome: Felipe Nascimento
+Telefone: (41) 90486-5320
+E-mail: felipe.nascimento@pucminas.br
+Endereco: Contagem
+Nome: Felipe Oliveira
+Telefone: (13) 29346-7258
+E-mail: felipe.oliveira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Felipe Ribeiro
+Telefone: (71) 86289-7902
+E-mail: felipe.ribeiro@pucminas.br
+Endereco: Sao Gabriel
+Nome: Felipe Rocha
+Telefone: (74) 83530-9884
+E-mail: felipe.rocha@pucminas.br
+Endereco: Barreiro
+Nome: Felipe Souza
+Telefone: (16) 23462-7595
+E-mail: felipe.souza@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Fernanda Almeida
+Telefone: (13) 11401-9834
+E-mail: fernanda.almeida@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Fernanda Araujo
+Telefone: (10) 14757-7653
+E-mail: fernanda.araujo@pucminas.br
+Endereco: Betim
+Nome: Fernanda Cardoso
+Telefone: (87) 72935-1112
+E-mail: fernanda.cardoso@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Fernanda Carvalho
+Telefone: (82) 59514-4403
+E-mail: fernanda.carvalho@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Fernanda Correia
+Telefone: (72) 52287-8057
+E-mail: fernanda.correia@pucminas.br
+Endereco: Contagem
+Nome: Fernanda Costa
+Telefone: (21) 78842-7096
+E-mail: fernanda.costa@pucminas.br
+Endereco: Barreiro
+Nome: Fernanda Cunha
+Telefone: (10) 30908-9919
+E-mail: fernanda.cunha@pucminas.br
+Endereco: Contagem
+Nome: Fernanda Dias
+Telefone: (82) 43294-4252
+E-mail: fernanda.dias@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Fernanda Fernandes
+Telefone: (33) 91811-2663
+E-mail: fernanda.fernandes@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Fernanda Gomes
+Telefone: (23) 50163-7279
+E-mail: fernanda.gomes@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Fernanda Lima
+Telefone: (83) 62627-8059
+E-mail: fernanda.lima@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Fernanda Mendes
+Telefone: (52) 73394-2452
+E-mail: fernanda.mendes@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Fernanda Moreira
+Telefone: (81) 49708-5707
+E-mail: fernanda.moreira@pucminas.br
+Endereco: Betim
+Nome: Fernanda Pereira
+Telefone: (47) 95237-1759
+E-mail: fernanda.pereira@pucminas.br
+Endereco: Betim
+Nome: Fernanda Reis
+Telefone: (61) 74145-2970
+E-mail: fernanda.reis@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Fernanda Souza
+Telefone: (17) 67007-1641
+E-mail: fernanda.souza@pucminas.br
+Endereco: Contagem
+Nome: Fernanda Teixeira
+Telefone: (41) 89210-4826
+E-mail: fernanda.teixeira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Gabriel Almeida
+Telefone: (31) 59476-7877
+E-mail: gabriel.almeida@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Gabriel Alves
+Telefone: (72) 63692-6038
+E-mail: gabriel.alves@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Gabriel Araujo
+Telefone: (32) 86159-4148
+E-mail: gabriel.araujo@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Gabriel Barbosa
+Telefone: (59) 88885-7587
+E-mail: gabriel.barbosa@pucminas.br
+Endereco: Sao Gabriel
+Nome: Gabriel Cardoso
+Telefone: (29) 37307-6646
+E-mail: gabriel.cardoso@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Gabriel Correia
+Telefone: (20) 33967-2365
+E-mail: gabriel.correia@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Gabriel Costa
+Telefone: (93) 86044-5215
+E-mail: gabriel.costa@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Gabriel Cunha
+Telefone: (15) 51370-7259
+E-mail: gabriel.cunha@pucminas.br
+Endereco: Sao Gabriel
+Nome: Gabriel Freitas
+Telefone: (38) 33531-8296
+E-mail: gabriel.freitas@pucminas.br
+Endereco: Betim
+Nome: Gabriel Lima
+Telefone: (69) 74555-6188
+E-mail: gabriel.lima@pucminas.br
+Endereco: Barreiro
+Nome: Gabriel Martins
+Telefone: (13) 42431-9378
+E-mail: gabriel.martins@pucminas.br
+Endereco: Barreiro
+Nome: Gabriel Pereira
+Telefone: (79) 24392-9077
+E-mail: gabriel.pereira@pucminas.br
+Endereco: Betim
+Nome: Gabriel Reis
+Telefone: (14) 77958-5903
+E-mail: gabriel.reis@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Gabriel Rocha
+Telefone: (77) 40559-3596
+E-mail: gabriel.rocha@pucminas.br
+Endereco: Barreiro
+Nome: Gabriel Rodrigues
+Telefone: (17) 53653-2583
+E-mail: gabriel.rodrigues@pucminas.br
+Endereco: Contagem
+Nome: Gabriel Santos
+Telefone: (23) 44357-4073
+E-mail: gabriel.santos@pucminas.br
+Endereco: Sao Gabriel
+Nome: Gustavo Almeida
+Telefone: (37) 18045-2961
+E-mail: gustavo.almeida@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Gustavo Alves
+Telefone: (23) 72252-2825
+E-mail: gustavo.alves@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Gustavo Araujo
+Telefone: (29) 34837-2135
+E-mail: gustavo.araujo@pucminas.br
+Endereco: Barreiro
+Nome: Gustavo Correia
+Telefone: (63) 46080-9307
+E-mail: gustavo.correia@pucminas.br
+Endereco: Sao Gabriel
+Nome: Gustavo Costa
+Telefone: (50) 79636-6596
+E-mail: gustavo.costa@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Gustavo Farias
+Telefone: (69) 33207-4356
+E-mail: gustavo.farias@pucminas.br
+Endereco: Contagem
+Nome: Gustavo Fernandes
+Telefone: (96) 69847-2835
+E-mail: gustavo.fernandes@pucminas.br
+Endereco: Sao Gabriel
+Nome: Gustavo Lima
+Telefone: (42) 64019-1266
+E-mail: gustavo.lima@pucminas.br
+Endereco: Betim
+Nome: Gustavo Martins
+Telefone: (89) 95257-5207
+E-mail: gustavo.martins@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Gustavo Mendes
+Telefone: (89) 55299-1271
+E-mail: gustavo.mendes@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Gustavo Nascimento
+Telefone: (62) 74772-6514
+E-mail: gustavo.nascimento@pucminas.br
+Endereco: Betim
+Nome: Gustavo Pinto
+Telefone: (56) 65579-7772
+E-mail: gustavo.pinto@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Gustavo Teixeira
+Telefone: (80) 22626-5676
+E-mail: gustavo.teixeira@pucminas.br
+Endereco: Betim
+Nome: Isabela Alves
+Telefone: (15) 66345-4165
+E-mail: isabela.alves@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Isabela Araujo
+Telefone: (11) 79031-4315
+E-mail: isabela.araujo@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Isabela Barbosa
+Telefone: (71) 51770-2940
+E-mail: isabela.barbosa@pucminas.br
+Endereco: Barreiro
+Nome: Isabela Carvalho
+Telefone: (88) 54526-3252
+E-mail: isabela.carvalho@pucminas.br
+Endereco: Betim
+Nome: Isabela Correia
+Telefone: (27) 25564-6622
+E-mail: isabela.correia@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Isabela Freitas
+Telefone: (94) 65416-8205
+E-mail: isabela.freitas@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Isabela Gomes
+Telefone: (57) 26244-3867
+E-mail: isabela.gomes@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Isabela Lima
+Telefone: (34) 62634-7229
+E-mail: isabela.lima@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Isabela Mendes
+Telefone: (91) 10203-8715
+E-mail: isabela.mendes@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Isabela Nascimento
+Telefone: (14) 30775-7154
+E-mail: isabela.nascimento@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Isabela Pinto
+Telefone: (99) 14402-4429
+E-mail: isabela.pinto@pucminas.br
+Endereco: Betim
+Nome: Isabela Reis
+Telefone: (28) 53623-4185
+E-mail: isabela.reis@pucminas.br
+Endereco: Barreiro
+Nome: Isabela Ribeiro
+Telefone: (51) 95598-8959
+E-mail: isabela.ribeiro@pucminas.br
+Endereco: Contagem
+Nome: Isabela Rodrigues
+Telefone: (51) 37062-5647
+E-mail: isabela.rodrigues@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Isabela Santos
+Telefone: (57) 24172-1134
+E-mail: isabela.santos@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Isabela Souza
+Telefone: (38) 46275-8654
+E-mail: isabela.souza@pucminas.br
+Endereco: Barreiro
+Nome: Isabela Teixeira
+Telefone: (77) 96205-3981
+E-mail: isabela.teixeira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Joana Araujo
+Telefone: (23) 36225-2506
+E-mail: joana.araujo@pucminas.br
+Endereco: Betim
+Nome: Joana Cardoso
+Telefone: (86) 74419-2216
+E-mail: joana.cardoso@pucminas.br
+Endereco: Barreiro
+Nome: Joana Carvalho
+Telefone: (13) 75894-7649
+E-mail: joana.carvalho@pucminas.br
+Endereco: Sao Gabriel
+Nome: Joana Costa
+Telefone: (30) 22863-4116
+E-mail: joana.costa@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Joana Gomes
+Telefone: (75) 59035-7688
+E-mail: joana.gomes@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Joana Lima
+Telefone: (80) 42743-2564
+E-mail: joana.lima@pucminas.br
+Endereco: Betim
+Nome: Joana Martins
+Telefone: (95) 71725-6962
+E-mail: joana.martins@pucminas.br
+Endereco: Contagem
+Nome: Joana Nascimento
+Telefone: (45) 79570-6179
+E-mail: joana.nascimento@pucminas.br
+Endereco: Contagem
+Nome: Joana Oliveira
+Telefone: (52) 32000-4330
+E-mail: joana.oliveira@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Joana Pereira
+Telefone: (87) 48776-4980
+E-mail: joana.pereira@pucminas.br
+Endereco: Barreiro
+Nome: Joana Rodrigues
+Telefone: (19) 34081-1378
+E-mail: joana.rodrigues@pucminas.br
+Endereco: Contagem
+Nome: Joana Santos
+Telefone: (45) 52997-2305
+E-mail: joana.santos@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Joana Teixeira
+Telefone: (26) 12881-5001
+E-mail: joana.teixeira@pucminas.br
+Endereco: Contagem
+Nome: Julia Alves
+Telefone: (24) 36149-5641
+E-mail: julia.alves@pucminas.br
+Endereco: Betim
+Nome: Julia Barbosa
+Telefone: (49) 48680-7663
+E-mail: julia.barbosa@pucminas.br
+Endereco: Contagem
+Nome: Julia Cardoso
+Telefone: (36) 35514-6486
+E-mail: julia.cardoso@pucminas.br
+Endereco: Contagem
+Nome: Julia Carvalho
+Telefone: (38) 52303-8912
+E-mail: julia.carvalho@pucminas.br
+Endereco: Sao Gabriel
+Nome: Julia Cunha
+Telefone: (39) 98227-7257
+E-mail: julia.cunha@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Julia Farias
+Telefone: (73) 49170-2290
+E-mail: julia.farias@pucminas.br
+Endereco: Contagem
+Nome: Julia Fernandes
+Telefone: (76) 35938-8355
+E-mail: julia.fernandes@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Julia Freitas
+Telefone: (76) 46814-6948
+E-mail: julia.freitas@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Julia Mendes
+Telefone: (28) 70898-5205
+E-mail: julia.mendes@pucminas.br
+Endereco: Contagem
+Nome: Julia Pereira
+Telefone: (54) 87354-7437
+E-mail: julia.pereira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Julia Reis
+Telefone: (69) 89203-8656
+E-mail: julia.reis@pucminas.br
+Endereco: Betim
+Nome: Julia Silva
+Telefone: (22) 61788-1710
+E-mail: julia.silva@pucminas.br
+Endereco: Sao Gabriel
+Nome: Larissa Almeida
+Telefone: (82) 94216-3755
+E-mail: larissa.almeida@pucminas.br
+Endereco: Contagem
+Nome: Larissa Araujo
+Telefone: (79) 56545-1273
+E-mail: larissa.araujo@pucminas.br
+Endereco: Betim
+Nome: Larissa Carvalho
+Telefone: (17) 96576-3663
+E-mail: larissa.carvalho@pucminas.br
+Endereco: Sao Gabriel
+Nome: Larissa Cunha
+Telefone: (46) 20420-8698
+E-mail: larissa.cunha@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Larissa Dias
+Telefone: (72) 47468-5577
+E-mail: larissa.dias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Larissa Farias
+Telefone: (27) 73764-7992
+E-mail: larissa.farias@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Larissa Freitas
+Telefone: (89) 40668-2104
+E-mail: larissa.freitas@pucminas.br
+Endereco: Barreiro
+Nome: Larissa Moreira
+Telefone: (44) 56135-7503
+E-mail: larissa.moreira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Larissa Oliveira
+Telefone: (94) 39959-8887
+E-mail: larissa.oliveira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Larissa Pereira
+Telefone: (53) 70009-5121
+E-mail: larissa.pereira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Larissa Rocha
+Telefone: (61) 34843-9007
+E-mail: larissa.rocha@pucminas.br
+Endereco: Betim
+Nome: Larissa Teixeira
+Telefone: (65) 66046-4637
+E-mail: larissa.teixeira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Leonardo Araujo
+Telefone: (79) 86094-4918
+E-mail: leonardo.araujo@pucminas.br
+Endereco: Barreiro
+Nome: Leonardo Barbosa
+Telefone: (41) 85285-4645
+E-mail: leonardo.barbosa@pucminas.br
+Endereco: Betim
+Nome: Leonardo Carvalho
+Telefone: (40) 88780-9542
+E-mail: leonardo.carvalho@pucminas.br
+Endereco: Contagem
+Nome: Leonardo Correia
+Telefone: (98) 13623-2500
+E-mail: leonardo.correia@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Leonardo Fernandes
+Telefone: (55) 10857-8205
+E-mail: leonardo.fernandes@pucminas.br
+Endereco: Betim
+Nome: Leonardo Freitas
+Telefone: (37) 78369-8383
+E-mail: leonardo.freitas@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Leonardo Gomes
+Telefone: (25) 72500-2348
+E-mail: leonardo.gomes@pucminas.br
+Endereco: Betim
+Nome: Leonardo Martins
+Telefone: (25) 60694-1285
+E-mail: leonardo.martins@pucminas.br
+Endereco: Sao Gabriel
+Nome: Leonardo Moreira
+Telefone: (30) 12064-4896
+E-mail: leonardo.moreira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Leonardo Nascimento
+Telefone: (46) 42710-7521
+E-mail: leonardo.nascimento@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Leonardo Oliveira
+Telefone: (31) 91184-4797
+E-mail: leonardo.oliveira@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Leonardo Pereira
+Telefone: (84) 81784-3169
+E-mail: leonardo.pereira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Leonardo Reis
+Telefone: (90) 39141-6116
+E-mail: leonardo.reis@pucminas.br
+Endereco: Betim
+Nome: Leonardo Ribeiro
+Telefone: (13) 23769-7712
+E-mail: leonardo.ribeiro@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Leonardo Rocha
+Telefone: (28) 89919-9691
+E-mail: leonardo.rocha@pucminas.br
+Endereco: Betim
+Nome: Leonardo Santos
+Telefone: (72) 30048-1902
+E-mail: leonardo.santos@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Leonardo Souza
+Telefone: (83) 26566-9401
+E-mail: leonardo.souza@pucminas.br
+Endereco: Sao Gabriel
+Nome: Leticia Almeida
+Telefone: (15) 67388-1595
+E-mail: leticia.almeida@pucminas.br
+Endereco: Betim
+Nome: Leticia Carvalho
+Telefone: (58) 67199-5931
+E-mail: leticia.carvalho@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Leticia Correia
+Telefone: (77) 15825-4127
+E-mail: leticia.correia@pucminas.br
+Endereco: Barreiro
+Nome: Leticia Costa
+Telefone: (49) 24712-8462
+E-mail: leticia.costa@pucminas.br
+Endereco: Barreiro
+Nome: Leticia Dias
+Telefone: (70) 35272-8668
+E-mail: leticia.dias@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Leticia Farias
+Telefone: (44) 74406-2001
+E-mail: leticia.farias@pucminas.br
+Endereco: Sao Gabriel
+Nome: Leticia Fernandes
+Telefone: (18) 60063-8377
+E-mail: leticia.fernandes@pucminas.br
+Endereco: Barreiro
+Nome: Leticia Freitas
+Telefone: (92) 85980-4493
+E-mail: leticia.freitas@pucminas.br
+Endereco: Sao Gabriel
+Nome: Leticia Lima
+Telefone: (56) 86238-2698
+E-mail: leticia.lima@pucminas.br
+Endereco: Sao Gabriel
+Nome: Leticia Martins
+Telefone: (16) 61878-6007
+E-mail: leticia.martins@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Leticia Moreira
+Telefone: (60) 64315-6216
+E-mail: leticia.moreira@pucminas.br
+Endereco: Betim
+Nome: Leticia Oliveira
+Telefone: (70) 92162-4289
+E-mail: leticia.oliveira@pucminas.br
+Endereco: Contagem
+Nome: Leticia Pereira
+Telefone: (97) 90928-2524
+E-mail: leticia.pereira@pucminas.br
+Endereco: Contagem
+Nome: Leticia Pinto
+Telefone: (46) 98695-8027
+E-mail: leticia.pinto@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Leticia Ribeiro
+Telefone: (32) 62218-6543
+E-mail: leticia.ribeiro@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Leticia Rodrigues
+Telefone: (28) 35808-2169
+E-mail: leticia.rodrigues@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Leticia Santos
+Telefone: (61) 89178-3291
+E-mail: leticia.santos@pucminas.br
+Endereco: Barreiro
+Nome: Leticia Souza
+Telefone: (58) 75671-9543
+E-mail: leticia.souza@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Leticia Teixeira
+Telefone: (99) 73673-6477
+E-mail: leticia.teixeira@pucminas.br
+Endereco: Contagem
+Nome: Lucas Araujo
+Telefone: (62) 92163-8505
+E-mail: lucas.araujo@pucminas.br
+Endereco: Sao Gabriel
+Nome: Lucas Barbosa
+Telefone: (55) 51620-6737
+E-mail: lucas.barbosa@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Lucas Cardoso
+Telefone: (54) 60804-3195
+E-mail: lucas.cardoso@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Lucas Farias
+Telefone: (12) 93899-1604
+E-mail: lucas.farias@pucminas.br
+Endereco: Betim
+Nome: Lucas Fernandes
+Telefone: (11) 74218-6594
+E-mail: lucas.fernandes@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Lucas Freitas
+Telefone: (43) 81747-6262
+E-mail: lucas.freitas@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Lucas Lima
+Telefone: (90) 43848-2251
+E-mail: lucas.lima@pucminas.br
+Endereco: Sao Gabriel
+Nome: Lucas Martins
+Telefone: (61) 94860-4312
+E-mail: lucas.martins@pucminas.br
+Endereco: Barreiro
+Nome: Lucas Mendes
+Telefone: (42) 23201-5988
+E-mail: lucas.mendes@pucminas.br
+Endereco: Sao Gabriel
+Nome: Lucas Moreira
+Telefone: (71) 72514-6142
+E-mail: lucas.moreira@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Lucas Pereira
+Telefone: (37) 96128-7606
+E-mail: lucas.pereira@pucminas.br
+Endereco: Contagem
+Nome: Lucas Reis
+Telefone: (43) 45712-1027
+E-mail: lucas.reis@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Lucas Ribeiro
+Telefone: (52) 92435-9331
+E-mail: lucas.ribeiro@pucminas.br
+Endereco: Sao Gabriel
+Nome: Lucas Rodrigues
+Telefone: (63) 56407-5804
+E-mail: lucas.rodrigues@pucminas.br
+Endereco: Betim
+Nome: Lucas Santos
+Telefone: (25) 36263-3969
+E-mail: lucas.santos@pucminas.br
+Endereco: Betim
+Nome: Luiza Almeida
+Telefone: (36) 34124-9615
+E-mail: luiza.almeida@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Luiza Araujo
+Telefone: (76) 56462-5682
+E-mail: luiza.araujo@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Luiza Cardoso
+Telefone: (41) 48027-6200
+E-mail: luiza.cardoso@pucminas.br
+Endereco: Barreiro
+Nome: Luiza Carvalho
+Telefone: (62) 90827-8052
+E-mail: luiza.carvalho@pucminas.br
+Endereco: Betim
+Nome: Luiza Correia
+Telefone: (80) 87718-1590
+E-mail: luiza.correia@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Luiza Costa
+Telefone: (50) 61571-1452
+E-mail: luiza.costa@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Luiza Dias
+Telefone: (24) 11045-9937
+E-mail: luiza.dias@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Luiza Farias
+Telefone: (95) 87935-1360
+E-mail: luiza.farias@pucminas.br
+Endereco: Sao Gabriel
+Nome: Luiza Lima
+Telefone: (11) 77787-1381
+E-mail: luiza.lima@pucminas.br
+Endereco: Sao Gabriel
+Nome: Luiza Nascimento
+Telefone: (53) 60541-5626
+E-mail: luiza.nascimento@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Luiza Pinto
+Telefone: (48) 32828-2761
+E-mail: luiza.pinto@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Luiza Reis
+Telefone: (58) 35224-5576
+E-mail: luiza.reis@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Luiza Ribeiro
+Telefone: (90) 58339-3257
+E-mail: luiza.ribeiro@pucminas.br
+Endereco: Sao Gabriel
+Nome: Luiza Rocha
+Telefone: (15) 37941-5615
+E-mail: luiza.rocha@pucminas.br
+Endereco: Contagem
+Nome: Luiza Rodrigues
+Telefone: (76) 44922-7638
+E-mail: luiza.rodrigues@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Luiza Santos
+Telefone: (64) 92583-1387
+E-mail: luiza.santos@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Luiza Silva
+Telefone: (35) 69036-5841
+E-mail: luiza.silva@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Luiza Souza
+Telefone: (37) 96203-8139
+E-mail: luiza.souza@pucminas.br
+Endereco: Sao Gabriel
+Nome: Luiza Teixeira
+Telefone: (33) 86683-8654
+E-mail: luiza.teixeira@pucminas.br
+Endereco: Contagem
+Nome: Manuela Almeida
+Telefone: (17) 77571-5596
+E-mail: manuela.almeida@pucminas.br
+Endereco: Betim
+Nome: Manuela Araujo
+Telefone: (14) 25745-8178
+E-mail: manuela.araujo@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Manuela Cardoso
+Telefone: (21) 48146-3872
+E-mail: manuela.cardoso@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Manuela Carvalho
+Telefone: (43) 62802-6979
+E-mail: manuela.carvalho@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Manuela Correia
+Telefone: (82) 58890-7379
+E-mail: manuela.correia@pucminas.br
+Endereco: Sao Gabriel
+Nome: Manuela Costa
+Telefone: (86) 82547-6900
+E-mail: manuela.costa@pucminas.br
+Endereco: Betim
+Nome: Manuela Cunha
+Telefone: (71) 86714-2632
+E-mail: manuela.cunha@pucminas.br
+Endereco: Betim
+Nome: Manuela Gomes
+Telefone: (54) 30004-9668
+E-mail: manuela.gomes@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Manuela Lima
+Telefone: (68) 28256-4648
+E-mail: manuela.lima@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Manuela Mendes
+Telefone: (59) 54959-1751
+E-mail: manuela.mendes@pucminas.br
+Endereco: Betim
+Nome: Manuela Nascimento
+Telefone: (45) 11328-1224
+E-mail: manuela.nascimento@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Manuela Pereira
+Telefone: (68) 82079-9779
+E-mail: manuela.pereira@pucminas.br
+Endereco: Contagem
+Nome: Manuela Pinto
+Telefone: (31) 68589-9628
+E-mail: manuela.pinto@pucminas.br
+Endereco: Sao Gabriel
+Nome: Manuela Reis
+Telefone: (56) 49364-4253
+E-mail: manuela.reis@pucminas.br
+Endereco: Betim
+Nome: Manuela Souza
+Telefone: (65) 25477-5255
+E-mail: manuela.souza@pucminas.br
+Endereco: Sao Gabriel
+Nome: Mariana Almeida
+Telefone: (33) 82571-1313
+E-mail: mariana.almeida@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Mariana Alves
+Telefone: (90) 43985-4710
+E-mail: mariana.alves@pucminas.br
+Endereco: Contagem
+Nome: Mariana Araujo
+Telefone: (80) 22742-9012
+E-mail: mariana.araujo@pucminas.br
+Endereco: Contagem
+Nome: Mariana Carvalho
+Telefone: (95) 26533-8116
+E-mail: mariana.carvalho@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Mariana Correia
+Telefone: (21) 18162-2114
+E-mail: mariana.correia@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Mariana Costa
+Telefone: (72) 38238-7270
+E-mail: mariana.costa@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Mariana Cunha
+Telefone: (23) 28238-2536
+E-mail: mariana.cunha@pucminas.br
+Endereco: Contagem
+Nome: Mariana Freitas
+Telefone: (62) 38336-9495
+E-mail: mariana.freitas@pucminas.br
+Endereco: Betim
+Nome: Mariana Gomes
+Telefone: (69) 45694-6182
+E-mail: mariana.gomes@pucminas.br
+Endereco: Barreiro
+Nome: Mariana Lima
+Telefone: (88) 10872-1410
+E-mail: mariana.lima@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Mariana Moreira
+Telefone: (86) 58841-5803
+E-mail: mariana.moreira@pucminas.br
+Endereco: Barreiro
+Nome: Mariana Nascimento
+Telefone: (58) 69054-7973
+E-mail: mariana.nascimento@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Mariana Pereira
+Telefone: (35) 55065-8746
+E-mail: mariana.pereira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Mariana Pinto
+Telefone: (96) 95241-7200
+E-mail: mariana.pinto@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Mariana Reis
+Telefone: (52) 63042-3325
+E-mail: mariana.reis@pucminas.br
+Endereco: Barreiro
+Nome: Mariana Ribeiro
+Telefone: (65) 53965-5260
+E-mail: mariana.ribeiro@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Mariana Silva
+Telefone: (25) 34997-3063
+E-mail: mariana.silva@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Mariana Souza
+Telefone: (38) 28371-9033
+E-mail: mariana.souza@pucminas.br
+Endereco: Sao Gabriel
+Nome: Mariana Teixeira
+Telefone: (15) 38357-7961
+E-mail: mariana.teixeira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Matheus Almeida
+Telefone: (99) 47952-2960
+E-mail: matheus.almeida@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Matheus Araujo
+Telefone: (40) 45005-4957
+E-mail: matheus.araujo@pucminas.br
+Endereco: Betim
+Nome: Matheus Barbosa
+Telefone: (98) 26381-8966
+E-mail: matheus.barbosa@pucminas.br
+Endereco: Barreiro
+Nome: Matheus Carvalho
+Telefone: (54) 96502-7475
+E-mail: matheus.carvalho@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Matheus Correia
+Telefone: (51) 12430-8920
+E-mail: matheus.correia@pucminas.br
+Endereco: Contagem
+Nome: Matheus Costa
+Telefone: (68) 77440-5563
+E-mail: matheus.costa@pucminas.br
+Endereco: Barreiro
+Nome: Matheus Dias
+Telefone: (24) 99107-7671
+E-mail: matheus.dias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Matheus Fernandes
+Telefone: (58) 42715-4554
+E-mail: matheus.fernandes@pucminas.br
+Endereco: Barreiro
+Nome: Matheus Mendes
+Telefone: (86) 22476-2845
+E-mail: matheus.mendes@pucminas.br
+Endereco: Sao Gabriel
+Nome: Matheus Moreira
+Telefone: (45) 82427-8731
+E-mail: matheus.moreira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Matheus Nascimento
+Telefone: (51) 18321-1889
+E-mail: matheus.nascimento@pucminas.br
+Endereco: Sao Gabriel
+Nome: Matheus Oliveira
+Telefone: (22) 60484-5993
+E-mail: matheus.oliveira@pucminas.br
+Endereco: Barreiro
+Nome: Matheus Ribeiro
+Telefone: (81) 30966-9680
+E-mail: matheus.ribeiro@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Matheus Rocha
+Telefone: (81) 82261-3228
+E-mail: matheus.rocha@pucminas.br
+Endereco: Sao Gabriel
+Nome: Matheus Rodrigues
+Telefone: (32) 39690-6846
+E-mail: matheus.rodrigues@pucminas.br
+Endereco: Sao Gabriel
+Nome: Matheus Santos
+Telefone: (96) 80296-7731
+E-mail: matheus.santos@pucminas.br
+Endereco: Barreiro
+Nome: Pedro Alves
+Telefone: (96) 23720-3297
+E-mail: pedro.alves@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Pedro Barbosa
+Telefone: (23) 67119-1121
+E-mail: pedro.barbosa@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Pedro Cardoso
+Telefone: (91) 89705-4622
+E-mail: pedro.cardoso@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Pedro Carvalho
+Telefone: (55) 55269-2928
+E-mail: pedro.carvalho@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Pedro Costa
+Telefone: (57) 98100-9568
+E-mail: pedro.costa@pucminas.br
+Endereco: Sao Gabriel
+Nome: Pedro Cunha
+Telefone: (75) 54598-9459
+E-mail: pedro.cunha@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Pedro Gomes
+Telefone: (19) 23346-2341
+E-mail: pedro.gomes@pucminas.br
+Endereco: Betim
+Nome: Pedro Mendes
+Telefone: (28) 64857-4386
+E-mail: pedro.mendes@pucminas.br
+Endereco: Contagem
+Nome: Pedro Oliveira
+Telefone: (97) 36764-8143
+E-mail: pedro.oliveira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Pedro Pinto
+Telefone: (12) 96139-4935
+E-mail: pedro.pinto@pucminas.br
+Endereco: Barreiro
+Nome: Pedro Reis
+Telefone: (66) 85587-8416
+E-mail: pedro.reis@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Pedro Rocha
+Telefone: (40) 21368-7453
+E-mail: pedro.rocha@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Pedro Santos
+Telefone: (21) 16185-5985
+E-mail: pedro.santos@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Pedro Silva
+Telefone: (39) 56113-7668
+E-mail: pedro.silva@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Pedro Teixeira
+Telefone: (55) 70855-2521
+E-mail: pedro.teixeira@pucminas.br
+Endereco: Contagem
+Nome: Rafael Almeida
+Telefone: (93) 87995-7601
+E-mail: rafael.almeida@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Rafael Barbosa
+Telefone: (15) 45132-7482
+E-mail: rafael.barbosa@pucminas.br
+Endereco: Barreiro
+Nome: Rafael Cardoso
+Telefone: (65) 68264-5669
+E-mail: rafael.cardoso@pucminas.br
+Endereco: Barreiro
+Nome: Rafael Correia
+Telefone: (33) 18930-7815
+E-mail: rafael.correia@pucminas.br
+Endereco: Barreiro
+Nome: Rafael Cunha
+Telefone: (61) 77234-4973
+E-mail: rafael.cunha@pucminas.br
+Endereco: Contagem
+Nome: Rafael Dias
+Telefone: (35) 30121-7708
+E-mail: rafael.dias@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Rafael Gomes
+Telefone: (31) 37512-5137
+E-mail: rafael.gomes@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Rafael Martins
+Telefone: (46) 98631-7349
+E-mail: rafael.martins@pucminas.br
+Endereco: Betim
+Nome: Rafael Mendes
+Telefone: (98) 73481-1438
+E-mail: rafael.mendes@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Rafael Moreira
+Telefone: (91) 88986-9453
+E-mail: rafael.moreira@pucminas.br
+Endereco: Contagem
+Nome: Rafael Nascimento
+Telefone: (55) 64206-5541
+E-mail: rafael.nascimento@pucminas.br
+Endereco: Barreiro
+Nome: Rafael Oliveira
+Telefone: (46) 63797-9337
+E-mail: rafael.oliveira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Rafael Pereira
+Telefone: (40) 94185-4668
+E-mail: rafael.pereira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Rafael Pinto
+Telefone: (46) 53003-4291
+E-mail: rafael.pinto@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Rafael Reis
+Telefone: (62) 88562-1354
+E-mail: rafael.reis@pucminas.br
+Endereco: Sao Gabriel
+Nome: Rafael Ribeiro
+Telefone: (70) 59355-1965
+E-mail: rafael.ribeiro@pucminas.br
+Endereco: Barreiro
+Nome: Rafael Rocha
+Telefone: (40) 76596-3324
+E-mail: rafael.rocha@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Rafael Santos
+Telefone: (78) 55164-8097
+E-mail: rafael.santos@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Rafael Silva
+Telefone: (74) 72897-3918
+E-mail: rafael.silva@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Rafael Teixeira
+Telefone: (42) 23777-9458
+E-mail: rafael.teixeira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Ricardo Almeida
+Telefone: (51) 42670-6492
+E-mail: ricardo.almeida@pucminas.br
+Endereco: Sao Gabriel
+Nome: Ricardo Araujo
+Telefone: (38) 59515-7746
+E-mail: ricardo.araujo@pucminas.br
+Endereco: Betim
+Nome: Ricardo Barbosa
+Telefone: (96) 50210-2752
+E-mail: ricardo.barbosa@pucminas.br
+Endereco: Sao Gabriel
+Nome: Ricardo Dias
+Telefone: (97) 61898-1632
+E-mail: ricardo.dias@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Ricardo Gomes
+Telefone: (88) 18907-4830
+E-mail: ricardo.gomes@pucminas.br
+Endereco: Sao Gabriel
+Nome: Ricardo Martins
+Telefone: (45) 15963-9566
+E-mail: ricardo.martins@pucminas.br
+Endereco: Betim
+Nome: Ricardo Oliveira
+Telefone: (17) 34448-5379
+E-mail: ricardo.oliveira@pucminas.br
+Endereco: Contagem
+Nome: Ricardo Pereira
+Telefone: (83) 31984-6100
+E-mail: ricardo.pereira@pucminas.br
+Endereco: Contagem
+Nome: Ricardo Ribeiro
+Telefone: (99) 84655-1750
+E-mail: ricardo.ribeiro@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Ricardo Rocha
+Telefone: (91) 36874-4531
+E-mail: ricardo.rocha@pucminas.br
+Endereco: Sao Gabriel
+Nome: Ricardo Santos
+Telefone: (58) 68899-5342
+E-mail: ricardo.santos@pucminas.br
+Endereco: Sao Gabriel
+Nome: Ricardo Silva
+Telefone: (21) 39693-4230
+E-mail: ricardo.silva@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Samuel Almeida
+Telefone: (31) 68835-2956
+E-mail: samuel.almeida@pucminas.br
+Endereco: Barreiro
+Nome: Samuel Alves
+Telefone: (15) 64665-2836
+E-mail: samuel.alves@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Samuel Barbosa
+Telefone: (42) 73229-4577
+E-mail: samuel.barbosa@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Samuel Cardoso
+Telefone: (39) 93908-7179
+E-mail: samuel.cardoso@pucminas.br
+Endereco: Betim
+Nome: Samuel Dias
+Telefone: (41) 58512-6740
+E-mail: samuel.dias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Samuel Fernandes
+Telefone: (92) 16518-1612
+E-mail: samuel.fernandes@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Samuel Gomes
+Telefone: (87) 47315-7663
+E-mail: samuel.gomes@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Samuel Mendes
+Telefone: (13) 27878-8729
+E-mail: samuel.mendes@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Samuel Moreira
+Telefone: (72) 47943-8919
+E-mail: samuel.moreira@pucminas.br
+Endereco: Betim
+Nome: Samuel Nascimento
+Telefone: (27) 28589-5647
+E-mail: samuel.nascimento@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Samuel Oliveira
+Telefone: (81) 34596-8969
+E-mail: samuel.oliveira@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Samuel Pereira
+Telefone: (71) 59184-2326
+E-mail: samuel.pereira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Samuel Pinto
+Telefone: (23) 39271-1517
+E-mail: samuel.pinto@pucminas.br
+Endereco: Sao Gabriel
+Nome: Samuel Reis
+Telefone: (17) 78499-4567
+E-mail: samuel.reis@pucminas.br
+Endereco: Contagem
+Nome: Samuel Ribeiro
+Telefone: (52) 80977-3398
+E-mail: samuel.ribeiro@pucminas.br
+Endereco: Sao Gabriel
+Nome: Samuel Rocha
+Telefone: (95) 71202-7056
+E-mail: samuel.rocha@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Samuel Santos
+Telefone: (87) 41852-9570
+E-mail: samuel.santos@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Samuel Teixeira
+Telefone: (99) 43614-3134
+E-mail: samuel.teixeira@pucminas.br
+Endereco: Contagem
+Nome: Sofia Almeida
+Telefone: (60) 99450-9777
+E-mail: sofia.almeida@pucminas.br
+Endereco: Contagem
+Nome: Sofia Alves
+Telefone: (12) 16918-4234
+E-mail: sofia.alves@pucminas.br
+Endereco: Barreiro
+Nome: Sofia Araujo
+Telefone: (71) 26382-4065
+E-mail: sofia.araujo@pucminas.br
+Endereco: Sao Gabriel
+Nome: Sofia Carvalho
+Telefone: (27) 50446-1743
+E-mail: sofia.carvalho@pucminas.br
+Endereco: Betim
+Nome: Sofia Costa
+Telefone: (38) 49332-7508
+E-mail: sofia.costa@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Sofia Cunha
+Telefone: (29) 87448-6581
+E-mail: sofia.cunha@pucminas.br
+Endereco: Contagem
+Nome: Sofia Dias
+Telefone: (49) 49264-2360
+E-mail: sofia.dias@pucminas.br
+Endereco: Betim
+Nome: Sofia Fernandes
+Telefone: (69) 45969-3317
+E-mail: sofia.fernandes@pucminas.br
+Endereco: Barreiro
+Nome: Sofia Freitas
+Telefone: (33) 24793-9584
+E-mail: sofia.freitas@pucminas.br
+Endereco: Contagem
+Nome: Sofia Gomes
+Telefone: (38) 65030-6050
+E-mail: sofia.gomes@pucminas.br
+Endereco: Contagem
+Nome: Sofia Lima
+Telefone: (89) 68770-3964
+E-mail: sofia.lima@pucminas.br
+Endereco: Betim
+Nome: Sofia Mendes
+Telefone: (57) 70655-6538
+E-mail: sofia.mendes@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Sofia Oliveira
+Telefone: (69) 60030-8847
+E-mail: sofia.oliveira@pucminas.br
+Endereco: Barreiro
+Nome: Sofia Reis
+Telefone: (51) 37995-4523
+E-mail: sofia.reis@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Sofia Rodrigues
+Telefone: (59) 11222-6797
+E-mail: sofia.rodrigues@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Sofia Santos
+Telefone: (83) 15506-7276
+E-mail: sofia.santos@pucminas.br
+Endereco: Sao Gabriel
+Nome: Sofia Teixeira
+Telefone: (34) 26635-9235
+E-mail: sofia.teixeira@pucminas.br
+Endereco: Sao Gabriel
+Nome: Thiago Alves
+Telefone: (19) 81628-4842
+E-mail: thiago.alves@pucminas.br
+Endereco: Betim
+Nome: Thiago Araujo
+Telefone: (91) 88118-1816
+E-mail: thiago.araujo@pucminas.br
+Endereco: Contagem
+Nome: Thiago Cardoso
+Telefone: (12) 17335-3364
+E-mail: thiago.cardoso@pucminas.br
+Endereco: Barreiro
+Nome: Thiago Correia
+Telefone: (99) 88018-6570
+E-mail: thiago.correia@pucminas.br
+Endereco: Sao Gabriel
+Nome: Thiago Dias
+Telefone: (19) 59264-1753
+E-mail: thiago.dias@pucminas.br
+Endereco: Betim
+Nome: Thiago Farias
+Telefone: (61) 96664-8985
+E-mail: thiago.farias@pucminas.br
+Endereco: Betim
+Nome: Thiago Fernandes
+Telefone: (78) 82545-3977
+E-mail: thiago.fernandes@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Thiago Freitas
+Telefone: (88) 59167-8829
+E-mail: thiago.freitas@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Thiago Gomes
+Telefone: (84) 63875-5208
+E-mail: thiago.gomes@pucminas.br
+Endereco: Barreiro
+Nome: Thiago Lima
+Telefone: (79) 42223-5487
+E-mail: thiago.lima@pucminas.br
+Endereco: Contagem
+Nome: Thiago Moreira
+Telefone: (50) 72422-3875
+E-mail: thiago.moreira@pucminas.br
+Endereco: Contagem
+Nome: Thiago Oliveira
+Telefone: (69) 36992-9028
+E-mail: thiago.oliveira@pucminas.br
+Endereco: Contagem
+Nome: Thiago Pinto
+Telefone: (78) 64868-9528
+E-mail: thiago.pinto@pucminas.br
+Endereco: Barreiro
+Nome: Thiago Reis
+Telefone: (27) 16570-4128
+E-mail: thiago.reis@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Thiago Rocha
+Telefone: (15) 15250-7106
+E-mail: thiago.rocha@pucminas.br
+Endereco: Sao Gabriel
+Nome: Thiago Rodrigues
+Telefone: (88) 89064-2028
+E-mail: thiago.rodrigues@pucminas.br
+Endereco: Barreiro
+Nome: Thiago Santos
+Telefone: (96) 92622-7881
+E-mail: thiago.santos@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Thiago Silva
+Telefone: (79) 27035-6561
+E-mail: thiago.silva@pucminas.br
+Endereco: Sao Gabriel
+Nome: Thiago Teixeira
+Telefone: (72) 13281-2317
+E-mail: thiago.teixeira@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Vinicius Almeida
+Telefone: (74) 49645-1651
+E-mail: vinicius.almeida@pucminas.br
+Endereco: Betim
+Nome: Vinicius Barbosa
+Telefone: (43) 27160-7834
+E-mail: vinicius.barbosa@pucminas.br
+Endereco: Contagem
+Nome: Vinicius Cardoso
+Telefone: (17) 70063-6020
+E-mail: vinicius.cardoso@pucminas.br
+Endereco: Sao Gabriel
+Nome: Vinicius Correia
+Telefone: (10) 50196-5260
+E-mail: vinicius.correia@pucminas.br
+Endereco: Barreiro
+Nome: Vinicius Costa
+Telefone: (82) 63966-7318
+E-mail: vinicius.costa@pucminas.br
+Endereco: Barreiro
+Nome: Vinicius Dias
+Telefone: (66) 55164-1123
+E-mail: vinicius.dias@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Vinicius Fernandes
+Telefone: (76) 19966-8128
+E-mail: vinicius.fernandes@pucminas.br
+Endereco: Coracao Eucaristico
+Nome: Vinicius Freitas
+Telefone: (37) 37175-3259
+E-mail: vinicius.freitas@pucminas.br
+Endereco: Sao Gabriel
+Nome: Vinicius Lima
+Telefone: (58) 51163-4593
+E-mail: vinicius.lima@pucminas.br
+Endereco: Sao Gabriel
+Nome: Vinicius Mendes
+Telefone: (33) 94613-4972
+E-mail: vinicius.mendes@pucminas.br
+Endereco: Sao Gabriel
+Nome: Vinicius Moreira
+Telefone: (54) 45740-6350
+E-mail: vinicius.moreira@pucminas.br
+Endereco: Contagem
+Nome: Vinicius Pereira
+Telefone: (43) 13681-7687
+E-mail: vinicius.pereira@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Vinicius Pinto
+Telefone: (35) 78952-7962
+E-mail: vinicius.pinto@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Vinicius Ribeiro
+Telefone: (52) 70707-9252
+E-mail: vinicius.ribeiro@pucminas.br
+Endereco: Pocos de Caldas
+Nome: Vinicius Rocha
+Telefone: (33) 20548-7371
+E-mail: vinicius.rocha@pucminas.br
+Endereco: Praca da Liberdade
+Nome: Vinicius Rodrigues
+Telefone: (23) 86870-1784
+E-mail: vinicius.rodrigues@pucminas.br
+Endereco: Betim
+Nome: Vinicius Souza
+Telefone: (64) 22628-7890
+E-mail: vinicius.souza@pucminas.br
+Endereco: Barreiro
+Nome: Vinicius Teixeira
+Telefone: (54) 55937-2900
+E-mail: vinicius.teixeira@pucminas.br
+Endereco: Sao Gabriel
