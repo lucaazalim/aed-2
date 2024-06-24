@@ -13,16 +13,27 @@ public class RehashingHashTable<K, V> {
     }
 
     private int hash(K key, int tries) {
-        return (Math.abs(key.hashCode() % this.capacity) + tries) % this.capacity;
+        return (Math.abs(key.hashCode()) + tries) % this.capacity;
+    }
+
+    public void clear() {
+        for (int i = 0; i < this.table.length; i++) {
+            this.table[i] = null;
+        }
     }
 
     public void put(K key, V value) {
 
         int tries = 0;
-        int hash = this.hash(key, tries);
+        int startingHash = this.hash(key, tries);
+        int hash = startingHash;
 
         while (this.table[hash] != null) {
             hash = this.hash(key, ++tries);
+
+            if (hash == startingHash) {
+                throw new IllegalStateException();
+            }
         }
 
         this.table[hash] = new Entry<>(key, value);
@@ -32,14 +43,19 @@ public class RehashingHashTable<K, V> {
     public V remove(K key) {
 
         int tries = 0;
-        int hash = this.hash(key, tries);
+        int startingHash = this.hash(key, tries);
+        int hash = startingHash;
 
         while (this.table[hash] != null && !this.table[hash].getKey().equals(key)) {
             hash = this.hash(key, ++tries);
+
+            if (hash == startingHash) {
+                break;
+            }
         }
 
         if (this.table[hash] == null) {
-            throw new IllegalArgumentException();
+            throw new NoSuchElementException();
         }
 
         V value = this.table[hash].getValue();
@@ -52,14 +68,15 @@ public class RehashingHashTable<K, V> {
     public V get(K key) {
 
         int tries = 0;
-        int hash = this.hash(key, tries);
+        int startingHash = this.hash(key, tries);
+        int hash = startingHash;
 
         while (this.table[hash] != null && !this.table[hash].getKey().equals(key)) {
             hash = this.hash(key, ++tries);
-        }
 
-        if (this.table[hash] == null) {
-            throw new NoSuchElementException();
+            if (hash == startingHash) {
+                throw new NoSuchElementException();
+            }
         }
 
         return this.table[hash].getValue();
@@ -68,24 +85,21 @@ public class RehashingHashTable<K, V> {
 
     public void restore() {
 
-        for (int i = 0; i < this.capacity; i++) {
+        Entry<K, V>[] clone = this.table.clone();
+        this.clear();
 
-            Entry<K, V> entry = this.table[i];
-
-            if (entry != this.removed) {
+        for (Entry<K, V> entry : clone) {
+            if (entry != null && entry != this.removed) {
                 this.put(entry.getKey(), entry.getValue());
             }
-
         }
 
     }
 
     private static class RemovedEntry<K, V> extends Entry<K, V> {
-
         public RemovedEntry() {
             super(null, null);
         }
-
     }
 
 }
