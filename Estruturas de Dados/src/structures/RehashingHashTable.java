@@ -1,4 +1,8 @@
+package structures;
+
 import java.util.NoSuchElementException;
+
+import structures.nodes.Entry;
 
 public class RehashingHashTable<K, V> {
 

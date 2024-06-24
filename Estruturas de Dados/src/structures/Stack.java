@@ -1,5 +1,9 @@
+package structures;
+
 import java.util.NoSuchElementException;
 import java.util.Objects;
+
+import structures.nodes.Node;
 
 public class Stack<E> {
 

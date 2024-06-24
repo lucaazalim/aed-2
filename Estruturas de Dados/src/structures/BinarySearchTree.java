@@ -1,6 +1,10 @@
+package structures;
+
 import java.util.NoSuchElementException;
 import java.util.Objects;
 import java.util.function.Consumer;
+
+import structures.nodes.TreeNode;
 
 public class BinarySearchTree<E extends Comparable<E>> {
 

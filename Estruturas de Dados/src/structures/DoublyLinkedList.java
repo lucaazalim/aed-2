@@ -1,7 +1,11 @@
+package structures;
+
 import java.util.NoSuchElementException;
 import java.util.Objects;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
+
+import structures.nodes.DoubleNode;
 
 public class DoublyLinkedList<E> {
 

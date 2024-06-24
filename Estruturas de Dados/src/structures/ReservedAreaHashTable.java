@@ -1,3 +1,7 @@
+package structures;
+
+import structures.nodes.Entry;
+
 public class ReservedAreaHashTable<K, V> {
 
     private final int capacity, reserve;
@@ -32,7 +36,7 @@ public class ReservedAreaHashTable<K, V> {
 
     }
 
-    public V find(K key) {
+    public V get(K key) {
         return this.table[this.findIndex(key)].getValue();
     }
 

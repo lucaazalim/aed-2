@@ -1,3 +1,5 @@
+package structures.nodes;
+
 public class ComparableEntry<K extends Comparable<K>, V> extends Entry<K, V>
         implements Comparable<ComparableEntry<K, V>> {
 

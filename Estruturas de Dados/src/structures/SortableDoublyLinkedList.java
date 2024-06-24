@@ -1,3 +1,7 @@
+package structures;
+
+import structures.nodes.DoubleNode;
+
 public class SortableDoublyLinkedList<E extends Comparable<E>> extends DoublyLinkedList<E> {
 
     public void sort() {

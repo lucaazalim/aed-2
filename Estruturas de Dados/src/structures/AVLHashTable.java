@@ -1,6 +1,9 @@
+package structures;
 
 import java.util.NoSuchElementException;
 import java.util.stream.Stream;
+
+import structures.nodes.ComparableEntry;
 
 public class AVLHashTable<K extends Comparable<K>, V> {
 

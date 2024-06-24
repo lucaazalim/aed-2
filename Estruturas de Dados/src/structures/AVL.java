@@ -1,3 +1,7 @@
+package structures;
+
+import structures.nodes.TreeNode;
+
 public class AVL<E extends Comparable<E>> extends BinarySearchTree<E> {
 
     @Override

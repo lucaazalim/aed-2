@@ -1,3 +1,5 @@
+package structures.nodes;
+
 public class DoubleNode<E> {
 
     private E element;

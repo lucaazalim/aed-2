@@ -1,5 +1,9 @@
+package structures;
+
 import java.util.NoSuchElementException;
 import java.util.Objects;
+
+import structures.nodes.Node;
 
 public class LinkedList<E> {
 
@@ -149,7 +153,7 @@ public class LinkedList<E> {
 
         }
 
-        if(aNode == null || bNode == null) {
+        if (aNode == null || bNode == null) {
             throw new NoSuchElementException();
         }
 

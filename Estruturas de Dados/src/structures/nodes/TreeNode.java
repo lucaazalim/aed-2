@@ -1,3 +1,5 @@
+package structures.nodes;
+
 import java.util.function.Consumer;
 
 public class TreeNode<T extends Comparable<T>> {

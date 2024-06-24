@@ -1,3 +1,5 @@
+package structures.nodes;
+
 public class Node<T> {
 
     private T element;

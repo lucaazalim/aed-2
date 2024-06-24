@@ -1,3 +1,5 @@
+package structures.nodes;
+
 public class Entry<K, V> {
 
     private final K key;

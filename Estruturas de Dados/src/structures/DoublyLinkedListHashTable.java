@@ -1,7 +1,10 @@
+package structures;
 
 import java.util.NoSuchElementException;
 import java.util.Objects;
 import java.util.stream.Stream;
+
+import structures.nodes.Entry;
 
 public class DoublyLinkedListHashTable<K extends Comparable<K>, V> {
 
