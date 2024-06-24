@@ -1,12 +1,12 @@
 import java.util.NoSuchElementException;
 
-public class RerashingHashTable<K, V> {
+public class RehashingHashTable<K, V> {
 
     private final int capacity;
     private final Entry<K, V>[] table;
     private final RemovedEntry<K, V> removed;
 
-    public RerashingHashTable(int capacity) {
+    public RehashingHashTable(int capacity) {
         this.capacity = capacity;
         this.table = (Entry<K, V>[]) new Entry[capacity];
         this.removed = new RemovedEntry<>();
